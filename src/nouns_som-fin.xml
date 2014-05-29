@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r>
+<e><lg><l pos="INF">afduub</l><stg><st Contlex="INF_">afduub</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sieppaus</t><t pos="N">kaappaus</t></tg></mg></e>
+<e><lg><l pos="INF">arag</l><stg><st Contlex="INF_">arag</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">näkeminen</t><t pos="N">näkö</t></tg></mg></e>
+<e><lg><l pos="INF">astaamayn</l><stg><st Contlex="INF_">astaamayn</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">välimerkit</t></tg></mg></e>
+<e><lg><l pos="INF">astaan weyddiin</l><stg><st Contlex="INF_">astaan weyddiin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kysymysmerkki</t></tg></mg></e>
+<e><lg><l pos="INF">baadidoon</l><stg><st Contlex="INF_">baadidoon</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">selvittäminen</t><t pos="N">tutkiminen</t></tg></mg></e>
+<e><lg><l pos="INF">ballaarin</l><stg><st Contlex="INF_">ballaarin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">laajeneminen</t></tg></mg></e>
+<e><lg><l pos="INF">ballangal</l><stg><st Contlex="INF_">ballangal</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sitoutuminen</t></tg></mg></e>
+<e><lg><l pos="INF">baraarug</l><stg><st Contlex="INF_">baraarug</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">herääminen</t><t pos="N">herätys</t><t pos="N">havahtuminen</t></tg></mg></e>
+<e><lg><l pos="INF">barar</l><stg><st Contlex="INF_">barar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">turvotus</t></tg></mg></e>
+<e><lg><l pos="INF">bax</l><stg><st Contlex="INF_">bax</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">meneminen</t><t pos="N">poistuminen</t><t pos="N">lähteminen</t></tg></mg></e>
+<e><lg><l pos="INF">baxniin</l><stg><st Contlex="INF_">baxniin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lähtö</t><t pos="N">Toinen Mooseksen kirja</t></tg></mg></e>
+<e><lg><l pos="INF">caymis</l><stg><st Contlex="INF_">caymis</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">vakuutus</t></tg></mg></e>
+<e><lg><l pos="INF">cunaqabatayn</l><stg><st Contlex="INF_">cunaqabatayn</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">boikotti</t><t pos="N">pakote</t><t pos="N">saarto</t></tg></mg></e>
+<e><lg><l pos="INF">cuncunid</l><stg><st Contlex="INF_">cuncunid</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kutina</t></tg></mg></e>
+<e><lg><l pos="INF">daandaansi</l><stg><st Contlex="INF_">daandaansi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">provokaatio</t><t pos="N">yllytys</t></tg></mg></e>
+<e><lg><l pos="INF">dadaal</l><stg><st Contlex="INF_">dadaal</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">pyrkiminen</t><t pos="N">pyrkimys</t></tg></mg></e>
+<e><lg><l pos="INF">dagaal</l><stg><st Contlex="INF_">dagaal</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sota</t><t pos="N">taistelu</t></tg></mg></e>
+<e><lg><l pos="INF">dalxiis</l><stg><st Contlex="INF_">dalxiis</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">matka</t><t pos="N">matkailu</t><t pos="N">turismi</t></tg></mg></e>
+<e><lg><l pos="INF">dhawaaq</l><stg><st Contlex="INF_">dhawaaq</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">huutaminen</t><t pos="N">huuto</t><t pos="N">ääntäminen</t><t pos="N">aksentti</t></tg></mg></e>
+<e><lg><l pos="INF">dhiigbax</l><stg><st Contlex="INF_">dhiigbax</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">verenvuoto</t></tg></mg></e>
+<e><lg><l pos="INF">fal</l><stg><st Contlex="INF_">fal</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">teko</t><t pos="N">toiminta</t><t pos="N">verbi</t><t pos="N">teonsana {kielioppi}</t><t pos="N">magia</t></tg></mg></e>
+<e><lg><l pos="INF">foorarsi</l><stg><st Contlex="INF_">foorarsi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kumarrus</t></tg></mg></e>
+<e><lg><l pos="INF">gaad</l><stg><st Contlex="INF_">gaad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">väijytys</t><t pos="N">väijyntä</t></tg></mg></e>
+<e><lg><l pos="INF">gudniin</l><stg><st Contlex="INF_">gudniin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">ympärileikkaus</t></tg></mg></e>
+<e><lg><l pos="INF">hab</l><stg><st Contlex="INF_">hab</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">halaus</t></tg></mg></e>
+<e><lg><l pos="INF">ilmo qaadid</l><stg><st Contlex="INF_">ilmo qaadid</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sikiäminen</t></tg></mg></e>
+<e><lg><l pos="INF">imaansho</l><stg><st Contlex="INF_">imaansho</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">saapuminen</t><t pos="N">tulo</t></tg></mg></e>
+<e><lg><l pos="INF">indho-indhays</l><stg><st Contlex="INF_">indho-indhays</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tarkastus</t><t pos="N">katselu</t></tg></mg></e>
+<e><lg><l pos="INF">kabaabyeyn</l><stg><st Contlex="INF_">kabaabyeyn</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">puuduttaminen</t></tg></mg></e>
+<e><lg><l pos="Pcle">may</l><stg><st Contlex="PCLE_">may</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Pcle">ei</t></tg></mg></e>
+<e><lg><l pos="INF">mehersad</l><stg><st Contlex="INF_">mehersad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">vihkiminen</t></tg></mg></e>
+<e><lg><l pos="INF">nasasho</l><stg><st Contlex="INF_">nasasho</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lepo</t><t pos="N">tauko</t><t pos="N">vapaapäivä</t><t pos="N">puoliaika</t></tg></mg></e>
+<e><lg><l pos="INF">oohin</l><stg><st Contlex="INF_">oohin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">itku</t></tg></mg></e>
+<e><lg><l pos="INF">qorraxsoobax</l><stg><st Contlex="INF_">qorraxsoobax</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sarastus</t><t pos="N">aamunkoite</t><t pos="N">auringonnousu</t></tg></mg></e>
+<e><lg><l pos="INF">sharmuutaysi</l><stg><st Contlex="INF_">sharmuutaysi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">prostituutio</t></tg></mg></e>
+<e><lg><l pos="INF">shummin</l><stg><st Contlex="INF_">shummin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">suudelma</t></tg></mg></e>
+<e><lg><l pos="INF">siigaysasho</l><stg><st Contlex="INF_">siigaysasho</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">itsetyydytys</t><t pos="N">masturbaatio</t></tg></mg></e>
+<e><lg><l pos="INF">siin</l><stg><st Contlex="INF_">siin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">antaminen</t></tg></mg></e>
+<e><lg><l pos="INF">sinaysi</l><stg><st Contlex="INF_">sinaysi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">haureus</t><t pos="N">aviorikos</t></tg></mg></e>
+<e><lg><l pos="INF">suuxdin</l><stg><st Contlex="INF_">suuxdin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">pyörtyminen</t><t pos="N">tajuttomuus</t></tg></mg></e>
+<e><lg><l pos="INF">wareysi</l><stg><st Contlex="INF_">wareysi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kysely</t><t pos="N">haastattelu</t><t pos="N">neuvonta</t></tg></mg></e>
+<e><lg><l pos="INF">waxbarasho</l><stg><st Contlex="INF_">waxbarasho</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">koulutus</t><t pos="N">opetus</t></tg></mg></e>
+<e><lg><l pos="INF">weerarcelin</l><stg><st Contlex="INF_">weerarcelin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">vastahyökkäys</t></tg></mg></e>
+<e><lg><l pos="INF">xabbadayn</l><stg><st Contlex="INF_">xabbadayn</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">ampuminen</t><t pos="N">ammunta</t><t pos="N">ammuskelu</t></tg></mg></e>
+<e><lg><l pos="INF">xamasho</l><stg><st Contlex="INF_">xamasho</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">juoru</t></tg></mg></e>
+<e><lg><l pos="INF">xiddigis</l><stg><st Contlex="INF_">xiddigis</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">astrologia</t></tg></mg></e>
+<e><lg><l pos="N">aabbe</l><stg><st Contlex="N_">aabbe</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">isä</t></tg></mg></e>
+<e><lg><l pos="N">aadane</l><stg><st Contlex="N_">aadane</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">ihminen</t><t pos="N">ihmiset</t></tg></mg></e>
+<e><lg><l pos="N">aafo</l><stg><st Contlex="N_">aafo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">katastrofi</t></tg></mg></e>
+<e><lg><l pos="N">aakhiro</l><stg><st Contlex="N_">aakhiro</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tuonpuoleinen elämä</t></tg></mg></e>
+<e><lg><l pos="N">aalkolo</l><stg><st Contlex="N_">aalkolo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">alkoholi</t></tg></mg></e>
+<e><lg><l pos="N">aalad</l><stg><st Contlex="N_">aalad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">väline</t><t pos="N">laite</t></tg></mg></e>
+<e><lg><l pos="N">aaladda shaqada maskaxda</l><stg><st Contlex="N_">aaladda shaqada maskaxda</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">aivosähkökäyrä</t><t pos="N">eeg</t></tg></mg></e>
+<e><lg><l pos="N">aaladda shaqada wadnaha</l><stg><st Contlex="N_">aaladda shaqada wadnaha</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sydänsähkökäyrä</t><t pos="N">sydänfilmi</t><t pos="N">ekg</t></tg></mg></e>
+<e><lg><l pos="N">aasaasi</l><stg><st Contlex="N_">aasaasi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">perusta</t><t pos="N">perusteet</t></tg></mg></e>
+<e><lg><l pos="N">aashito</l><stg><st Contlex="N_">aashito</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">happo</t></tg></mg></e>
+<e><lg><l pos="N">Aasiyaan</l><stg><st Contlex="N_">Aasiyaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">aasialainen</t></tg></mg></e>
+<e><lg><l pos="N">abbaayo</l><stg><st Contlex="N_">abbaayo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sisko</t><t pos="N">sisar</t></tg></mg></e>
+<e><lg><l pos="N">abboowe</l><stg><st Contlex="N_">abboowe</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">veli</t></tg></mg></e>
+<e><lg><l pos="N">Abriil</l><stg><st Contlex="N_">Abriil</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">huhtikuu</t></tg></mg></e>
+<e><lg><l pos="N">abti</l><stg><st Contlex="N_">abti</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">eno</t></tg></mg></e>
+<e><lg><l pos="N">addoon</l><stg><st Contlex="N_">addoon</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">orja</t></tg></mg></e>
+<e><lg><l pos="N">adeer</l><stg><st Contlex="N_">adeer</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">seta</t></tg></mg></e>
+<e><lg><l pos="N">af</l><stg><st Contlex="N_">af</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">suu</t><t pos="N">kieli</t></tg></mg></e>
+<e><lg><l pos="N">af Carabiga</l><stg><st Contlex="N_">af Carabiga</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">arabian kieli</t></tg></mg></e>
+<e><lg><l pos="N">afceliye</l><stg><st Contlex="N_">afceliye</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tulkki</t></tg></mg></e>
+<e><lg><l pos="N">af Finnishka</l><stg><st Contlex="N_">af Finnishka</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">suomen kieli</t></tg></mg></e>
+<e><lg><l pos="N">afhayeen</l><stg><st Contlex="N_">afhayeen</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">edustaja</t><t pos="N">puhemies</t><t pos="N">tiedottaja</t></tg></mg></e>
+<e><lg><l pos="N">af Iswidhishka</l><stg><st Contlex="N_">af Iswidhishka</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">ruotsin kieli</t></tg></mg></e>
+<e><lg><l pos="N">af Soomaaliga</l><stg><st Contlex="N_">af Soomaaliga</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">somalin kieli</t></tg></mg></e>
+<e><lg><l pos="N">Agoosto</l><stg><st Contlex="N_">Agoosto</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">elokuu</t></tg></mg></e>
+<e><lg><l pos="N">albaab</l><stg><st Contlex="N_">albaab</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">ovi</t></tg></mg></e>
+<e><lg><l pos="N">alifba’</l><stg><st Contlex="N_">alifba’</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">aakkoset</t><t pos="N">aakkosto</t></tg></mg></e>
+<e><lg><l pos="N">alifle</l><stg><st Contlex="N_">alifle</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">korpraali</t></tg></mg></e>
+<e><lg><l pos="N">amar</l><stg><st Contlex="N_">amar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">komento</t><t pos="N">käsky</t><t pos="N">imperatiivi (kielioppi)</t></tg></mg></e>
+<e><lg><l pos="N">amardiiddo</l><stg><st Contlex="N_">amardiiddo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tottelemattomuus</t><t pos="N">niskoittelu</t></tg></mg></e>
+<e><lg><l pos="N">amarkutaagle</l><stg><st Contlex="N_">amarkutaagle</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">diktaattori</t><t pos="N">despootti</t><t pos="N">itsevaltias</t><t pos="N">hirmuvaltias</t></tg></mg></e>
+<e><lg><l pos="N">anqaw</l><stg><st Contlex="N_">anqaw</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">nilkka</t></tg></mg></e>
+<e><lg><l pos="N">ansalaato</l><stg><st Contlex="N_">ansalaato</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">salaatti</t></tg></mg></e>
+<e><lg><l pos="N">aragbeel</l><stg><st Contlex="N_">aragbeel</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sokeus</t></tg></mg></e>
+<e><lg><l pos="N">aragti</l><stg><st Contlex="N_">aragti</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">näkemys</t><t pos="N">mielipide</t><t pos="N">kanta</t></tg></mg></e>
+<e><lg><l pos="N">Arbaco</l><stg><st Contlex="N_">Arbaco</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">keskiviikko</t></tg></mg></e>
+<e><lg><l pos="N">arday</l><stg><st Contlex="N_">arday</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">opiskelija</t><t pos="N">oppilas</t></tg></mg></e>
+<e><lg><l pos="N">armaajo</l><stg><st Contlex="N_">armaajo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kaappi</t><t pos="N">lipasto</t></tg></mg></e>
+<e><lg><l pos="N">aroos</l><stg><st Contlex="N_">aroos</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">häät</t><t pos="N">sulhanen</t></tg></mg></e>
+<e><lg><l pos="N">aroosad</l><stg><st Contlex="N_">aroosad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">morsian</t></tg></mg></e>
+<e><lg><l pos="N">askari</l><stg><st Contlex="N_">askari</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sotilas</t></tg></mg></e>
+<e><lg><l pos="N">astaan</l><stg><st Contlex="N_">astaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">merkki</t><t pos="N">tunnusmerkki</t><t pos="N">oire</t><t pos="N">symboli</t><t pos="N">välimerkki</t></tg></mg></e>
+<e><lg><l pos="N">astaan yaab</l><stg><st Contlex="N_">astaan yaab</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">huutomerkki</t></tg></mg></e>
+<e><lg><l pos="N">awoowe</l><stg><st Contlex="N_">awoowe</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">isoisä</t></tg></mg></e>
+<e><lg><l pos="N">Axad</l><stg><st Contlex="N_">Axad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sunnuntai</t></tg></mg></e>
+<e><lg><l pos="N">ayeeyo</l><stg><st Contlex="N_">ayeeyo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">isoäiti</t></tg></mg></e>
+<e><lg><l pos="N">baabasiir</l><stg><st Contlex="N_">baabasiir</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">peräpukamat</t></tg></mg></e>
+<e><lg><l pos="N">baabbaco</l><stg><st Contlex="N_">baabbaco</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kämmen</t></tg></mg></e>
+<e><lg><l pos="N">baabuur</l><stg><st Contlex="N_">baabuur</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">auto</t></tg></mg></e>
+<e><lg><l pos="N">baabuur weyn</l><stg><st Contlex="N_">baabuur weyn</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">rekka-auto</t><t pos="N">kuorma-auto</t></tg></mg></e>
+<e><lg><l pos="N">baad</l><stg><st Contlex="N_">baad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kiristys</t><t pos="N">kiskonta</t></tg></mg></e>
+<e><lg><l pos="N">baaddil</l><stg><st Contlex="N_">baaddil</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">vääryys</t><t pos="N">epäoikeudenmukaisuus</t><t pos="N">perusteeton</t></tg></mg></e>
+<e><lg><l pos="N">baaddiye</l><stg><st Contlex="N_">baaddiye</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">maaseutu</t></tg></mg></e>
+<e><lg><l pos="N">baadi</l><stg><st Contlex="N_">baadi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">eksynyt</t></tg></mg></e>
+<e><lg><l pos="N">baangad</l><stg><st Contlex="N_">baangad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">viidakkoveitsi</t></tg></mg></e>
+<e><lg><l pos="N">baaquli</l><stg><st Contlex="N_">baaquli</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kulho</t></tg></mg></e>
+<e><lg><l pos="N">baarlamaan</l><stg><st Contlex="N_">baarlamaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">eduskunta</t><t pos="N">parlamentti</t></tg></mg></e>
+<e><lg><l pos="N">baaro</l><stg><st Contlex="N_">baaro</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">esinahkatali</t><t pos="N">smegma</t></tg></mg></e>
+<e><lg><l pos="N">baasaboor</l><stg><st Contlex="N_">baasaboor</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">passi</t></tg></mg></e>
+<e><lg><l pos="N">baasarce</l><stg><st Contlex="N_">baasarce</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">Intialainen riisi</t><t pos="N">basmatiriisi</t></tg></mg></e>
+<e><lg><l pos="N">baashaal</l><stg><st Contlex="N_">baashaal</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">ajanviete</t></tg></mg></e>
+<e><lg><l pos="N">baashi</l><stg><st Contlex="N_">baashi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kuningas (korttipeli)</t></tg></mg></e>
+<e><lg><l pos="N">baasho</l><stg><st Contlex="N_">baasho</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">suukko</t><t pos="N">suudelma</t><t pos="N">pusu</t></tg></mg></e>
+<e><lg><l pos="N">baasiin</l><stg><st Contlex="N_">baasiin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">bensiini</t></tg></mg></e>
+<e><lg><l pos="N">baaskiil</l><stg><st Contlex="N_">baaskiil</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">polkupyörä</t></tg></mg></e>
+<e><lg><l pos="N">baasto</l><stg><st Contlex="N_">baasto</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">spaghetti</t></tg></mg></e>
+<e><lg><l pos="N">baasuuke</l><stg><st Contlex="N_">baasuuke</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sinko</t></tg></mg></e>
+<e><lg><l pos="N">babbaay</l><stg><st Contlex="N_">babbaay</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">papaija</t></tg></mg></e>
+<e><lg><l pos="N">bad</l><stg><st Contlex="N_">bad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">meri</t></tg></mg></e>
+<e><lg><l pos="N">badweyn</l><stg><st Contlex="N_">badweyn</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">valtameri</t></tg></mg></e>
+<e><lg><l pos="N">bagteeriyo</l><stg><st Contlex="N_">bagteeriyo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">bakteerit</t></tg></mg></e>
+<e><lg><l pos="N">bakayle</l><stg><st Contlex="N_">bakayle</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">jänis</t><t pos="N">kani</t><t pos="N">kaniini</t></tg></mg></e>
+<e><lg><l pos="N">bakhaar</l><stg><st Contlex="N_">bakhaar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">varasto</t></tg></mg></e>
+<e><lg><l pos="N">bakhaarhaye</l><stg><st Contlex="N_">bakhaarhaye</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">varastonhoitaja</t></tg></mg></e>
+<e><lg><l pos="N">bakhayl</l><stg><st Contlex="N_">bakhayl</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">saituri</t></tg></mg></e>
+<e><lg><l pos="N">bakhaylnimo</l><stg><st Contlex="N_">bakhaylnimo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">saituus</t></tg></mg></e>
+<e><lg><l pos="N">balaayo</l><stg><st Contlex="N_">balaayo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">epäonni</t><t pos="N">katastrofi</t></tg></mg></e>
+<e><lg><l pos="N">ballac</l><stg><st Contlex="N_">ballac</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">leveys</t></tg></mg></e>
+<e><lg><l pos="N">ballaar</l><stg><st Contlex="N_">ballaar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">leveys</t></tg></mg></e>
+<e><lg><l pos="N">balambaallis</l><stg><st Contlex="N_">balambaallis</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">perhonen</t></tg></mg></e>
+<e><lg><l pos="N">ballan</l><stg><st Contlex="N_">ballan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lupaus</t><t pos="N">ajanvaraus</t><t pos="N">tapaaminen</t><t pos="N">sopimus</t></tg></mg></e>
+<e><lg><l pos="N">bambeelmo</l><stg><st Contlex="N_">bambeelmo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">greippi</t></tg></mg></e>
+<e><lg><l pos="N">baqal</l><stg><st Contlex="N_">baqal</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">muuli</t></tg></mg></e>
+<e><lg><l pos="N">baqshad</l><stg><st Contlex="N_">baqshad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kirjekuori</t></tg></mg></e>
+<e><lg><l pos="N">baqshiish</l><stg><st Contlex="N_">baqshiish</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">juomaraha</t></tg></mg></e>
+<e><lg><l pos="N">baqtiyaanasiib</l><stg><st Contlex="N_">baqtiyaanasiib</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">arpajaiset</t></tg></mg></e>
+<e><lg><l pos="N">bar</l><stg><st Contlex="N_">bar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">puoli</t></tg></mg></e>
+<e><lg><l pos="N">bar</l><stg><st Contlex="N_">bar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">täplä</t></tg></mg></e>
+<e><lg><l pos="N">bar tobanle</l><stg><st Contlex="N_">bar tobanle</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">desimaalipiste</t><t pos="N">desimaalipilkku</t></tg></mg></e>
+<e><lg><l pos="N">baraako</l><stg><st Contlex="N_">baraako</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">puutalo</t></tg></mg></e>
+<e><lg><l pos="N">baraare</l><stg><st Contlex="N_">baraare</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">menestys</t></tg></mg></e>
+<e><lg><l pos="N">barad</l><stg><st Contlex="N_">barad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">oppilas</t><t pos="N">harjoittelija</t></tg></mg></e>
+<e><lg><l pos="N">baradho</l><stg><st Contlex="N_">baradho</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">peruna</t></tg></mg></e>
+<e><lg><l pos="N">baraf</l><stg><st Contlex="N_">baraf</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">jää</t></tg></mg></e>
+<e><lg><l pos="N">barafuun</l><stg><st Contlex="N_">barafuun</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">hajuvesi</t><t pos="N">parfyymi</t></tg></mg></e>
+<e><lg><l pos="N">barako</l><stg><st Contlex="N_">barako</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">siunaus</t></tg></mg></e>
+<e><lg><l pos="N">baranbaro</l><stg><st Contlex="N_">baranbaro</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">torakka</t></tg></mg></e>
+<e><lg><l pos="N">baras</l><stg><st Contlex="N_">baras</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">hilsetystauti</t><t pos="N">psoriaasi</t></tg></mg></e>
+<e><lg><l pos="N">barbarrooni</l><stg><st Contlex="N_">barbarrooni</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">paprika</t></tg></mg></e>
+<e><lg><l pos="N">bari</l><stg><st Contlex="N_">bari</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">itä</t><t pos="N">pakara</t></tg></mg></e>
+<e><lg><l pos="N">bariis</l><stg><st Contlex="N_">bariis</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">riisi</t></tg></mg></e>
+<e><lg><l pos="N">barkin</l><stg><st Contlex="N_">barkin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tyyny</t></tg></mg></e>
+<e><lg><l pos="N">barkindhac</l><stg><st Contlex="N_">barkindhac</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">jäykkä niska</t></tg></mg></e>
+<e><lg><l pos="N">barnaamij</l><stg><st Contlex="N_">barnaamij</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">ohjelma</t></tg></mg></e>
+<e><lg><l pos="N">bartameye</l><stg><st Contlex="N_">bartameye</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">keskushyökkääjä (jalkapallo)</t></tg></mg></e>
+<e><lg><l pos="N">bartan</l><stg><st Contlex="N_">bartan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">keskus</t></tg></mg></e>
+<e><lg><l pos="N">baruur</l><stg><st Contlex="N_">baruur</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">rasva</t><t pos="N">ihra</t></tg></mg></e>
+<e><lg><l pos="N">bas</l><stg><st Contlex="N_">bas</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">bussi</t><t pos="N">linja-auto</t></tg></mg></e>
+<e><lg><l pos="N">basal</l><stg><st Contlex="N_">basal</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sipuli</t></tg></mg></e>
+<e><lg><l pos="N">basbaas</l><stg><st Contlex="N_">basbaas</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">chili</t><t pos="N">chilipippuri</t></tg></mg></e>
+<e><lg><l pos="N">bastoolad</l><stg><st Contlex="N_">bastoolad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">pistooli</t></tg></mg></e>
+<e><lg><l pos="N">bataatiga macaan</l><stg><st Contlex="N_">bataatiga macaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">bataatti</t></tg></mg></e>
+<e><lg><l pos="N">beer</l><stg><st Contlex="N_">beer</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">maatila</t><t pos="N">puutarha</t><t pos="N">maksa</t></tg></mg></e>
+<e><lg><l pos="N">beri</l><stg><st Contlex="N_">beri</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">päivä</t></tg></mg></e>
+<e><lg><l pos="N">bersed</l><stg><st Contlex="N_">bersed</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">olohuone</t></tg></mg></e>
+<e><lg><l pos="N">bidix</l><stg><st Contlex="N_">bidix</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">vasen</t></tg></mg></e>
+<e><lg><l pos="N">bil</l><stg><st Contlex="N_">bil</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kuu</t><t pos="N">kuukausi</t></tg></mg></e>
+<e><lg><l pos="N">bir</l><stg><st Contlex="N_">bir</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">silmäterä</t><t pos="N">mustuainen</t><t pos="N">rauta</t><t pos="N">metalli</t></tg></mg></e>
+<e><lg><l pos="N">biyo</l><stg><st Contlex="N_">biyo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">vesi</t><t pos="N">neste</t><t pos="N">sperma</t><t pos="N">siemenneste</t></tg></mg></e>
+<e><lg><l pos="N">bog</l><stg><st Contlex="N_">bog</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sivu</t></tg></mg></e>
+<e><lg><l pos="N">boog</l><stg><st Contlex="N_">boog</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">haava</t></tg></mg></e>
+<e><lg><l pos="N">boolbare</l><stg><st Contlex="N_">boolbare</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">talkki</t></tg></mg></e>
+<e><lg><l pos="N">booliis</l><stg><st Contlex="N_">booliis</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">poliisi</t></tg></mg></e>
+<e><lg><l pos="N">booloboolo</l><stg><st Contlex="N_">booloboolo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">ankka</t></tg></mg></e>
+<e><lg><l pos="N">boqolkiiba</l><stg><st Contlex="N_">boqolkiiba</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">prosentti</t></tg></mg></e>
+<e><lg><l pos="N">boqon</l><stg><st Contlex="N_">boqon</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">jousenjänne</t><t pos="N">nilkka</t><t pos="N">akillesjänne</t></tg></mg></e>
+<e><lg><l pos="N">boqor</l><stg><st Contlex="N_">boqor</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kuningas</t></tg></mg></e>
+<e><lg><l pos="N">boqorad</l><stg><st Contlex="N_">boqorad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kuningatar</t></tg></mg></e>
+<e><lg><l pos="N">boqortooyo</l><stg><st Contlex="N_">boqortooyo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kuningaskunta</t><t pos="N">valtakunta</t></tg></mg></e>
+<e><lg><l pos="N">bowdo</l><stg><st Contlex="N_">bowdo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">reisi</t></tg></mg></e>
+<e><lg><l pos="N">bukaan</l><stg><st Contlex="N_">bukaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">potilas</t></tg></mg></e>
+<e><lg><l pos="N">bukaanjiif</l><stg><st Contlex="N_">bukaanjiif</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sairaalapotilas</t><t pos="N">sisäpotilas</t></tg></mg></e>
+<e><lg><l pos="N">bukaanqaad</l><stg><st Contlex="N_">bukaanqaad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sairaankuljetusauto</t><t pos="N">ambulanssi</t></tg></mg></e>
+<e><lg><l pos="N">bukaansocod</l><stg><st Contlex="N_">bukaansocod</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">avohoitopotilas</t><t pos="N">poliklinikkapotilas</t></tg></mg></e>
+<e><lg><l pos="N">buluug</l><stg><st Contlex="N_">buluug</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sininen</t></tg></mg></e>
+<e><lg><l pos="N">buraashka ilkaha</l><stg><st Contlex="N_">buraashka ilkaha</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">hammasharja</t></tg></mg></e>
+<e><lg><l pos="N">burcad</l><stg><st Contlex="N_">burcad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">voi</t><t pos="N">margariini</t><t pos="N">rosvo</t><t pos="N">maantierosvo</t></tg></mg></e>
+<e><lg><l pos="N">burcad badeed</l><stg><st Contlex="N_">burcad badeed</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">merirosvo</t></tg></mg></e>
+<e><lg><l pos="N">burris</l><stg><st Contlex="N_">burris</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">vasara</t></tg></mg></e>
+<e><lg><l pos="N">busbus</l><stg><st Contlex="N_">busbus</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">vesirokko</t></tg></mg></e>
+<e><lg><l pos="N">bushin</l><stg><st Contlex="N_">bushin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">huuli</t></tg></mg></e>
+<e><lg><l pos="N">buskud</l><stg><st Contlex="N_">buskud</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">keksi</t></tg></mg></e>
+<e><lg><l pos="N">buste</l><stg><st Contlex="N_">buste</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">huopa</t></tg></mg></e>
+<e><lg><l pos="N">busteeki</l><stg><st Contlex="N_">busteeki</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kyljyspihvi</t></tg></mg></e>
+<e><lg><l pos="N">buug</l><stg><st Contlex="N_">buug</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kirja</t><t pos="N">vihko</t></tg></mg></e>
+<e><lg><l pos="N">buugagga dugsiyada</l><stg><st Contlex="N_">buugagga dugsiyada</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">oppikirjat</t></tg></mg></e>
+<e><lg><l pos="N">buugagga qorista</l><stg><st Contlex="N_">buugagga qorista</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">vihko</t><t pos="N">kirjoitusvihko</t><t pos="N">harjoituskirja</t></tg></mg></e>
+<e><lg><l pos="N">buugaghaye</l><stg><st Contlex="N_">buugaghaye</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kirjastonhoitaja</t></tg></mg></e>
+<e><lg><l pos="N">buugagsheeg</l><stg><st Contlex="N_">buugagsheeg</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kirjaluettelo</t><t pos="N">bibliografia</t></tg></mg></e>
+<e><lg><l pos="N">buuglacag</l><stg><st Contlex="N_">buuglacag</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kassakirja</t></tg></mg></e>
+<e><lg><l pos="N">caado</l><stg><st Contlex="N_">caado</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">perinne</t><t pos="N">tapa</t><t pos="N">luonne</t><t pos="N">tottumus</t></tg></mg></e>
+<e><lg><l pos="N">caan</l><stg><st Contlex="N_">caan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kuuluisuus</t><t pos="N">suosittu</t></tg></mg></e>
+<e><lg><l pos="N">caanafadhi</l><stg><st Contlex="N_">caanafadhi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">jogurtti</t></tg></mg></e>
+<e><lg><l pos="N">caanaqub</l><stg><st Contlex="N_">caanaqub</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">piikkisika</t></tg></mg></e>
+<e><lg><l pos="N">caano</l><stg><st Contlex="N_">caano</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">maito</t></tg></mg></e>
+<e><lg><l pos="N">caano dhanaan</l><stg><st Contlex="N_">caano dhanaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">piimä</t></tg></mg></e>
+<e><lg><l pos="N">caanoole</l><stg><st Contlex="N_">caanoole</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">maitomies</t></tg></mg></e>
+<e><lg><l pos="N">cabitaan</l><stg><st Contlex="N_">cabitaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">mehu</t></tg></mg></e>
+<e><lg><l pos="N">caddaan</l><stg><st Contlex="N_">caddaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">valkoinen</t></tg></mg></e>
+<e><lg><l pos="N">cag</l><stg><st Contlex="N_">cag</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">jalkaterä</t></tg></mg></e>
+<e><lg><l pos="N">cagaar</l><stg><st Contlex="N_">cagaar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">vihreä väri</t></tg></mg></e>
+<e><lg><l pos="N">cagaarshow</l><stg><st Contlex="N_">cagaarshow</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">keltatauti</t></tg></mg></e>
+<e><lg><l pos="N">cagaaryahan</l><stg><st Contlex="N_">cagaaryahan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kasvissyöjä</t></tg></mg></e>
+<e><lg><l pos="N">cajalad</l><stg><st Contlex="N_">cajalad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">C-kasetti</t></tg></mg></e>
+<e><lg><l pos="N">cajaladaha saxanka wareegsan</l><stg><st Contlex="N_">cajaladaha saxanka wareegsan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">cd-levy</t></tg></mg></e>
+<e><lg><l pos="N">calaamadda nabar bogsaday</l><stg><st Contlex="N_">calaamadda nabar bogsaday</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">arpi</t></tg></mg></e>
+<e><lg><l pos="N">calool</l><stg><st Contlex="N_">calool</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">vatsa</t></tg></mg></e>
+<e><lg><l pos="N">caloolxanuun</l><stg><st Contlex="N_">caloolxanuun</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">vatsakipu</t></tg></mg></e>
+<e><lg><l pos="N">cambaruud</l><stg><st Contlex="N_">cambaruud</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">päärynä</t></tg></mg></e>
+<e><lg><l pos="N">cambe</l><stg><st Contlex="N_">cambe</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">mango</t></tg></mg></e>
+<e><lg><l pos="N">can</l><stg><st Contlex="N_">can</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">poski</t></tg></mg></e>
+<e><lg><l pos="N">canaad</l><stg><st Contlex="N_">canaad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">itsepäisyys</t><t pos="N">itsepäinen</t></tg></mg></e>
+<e><lg><l pos="N">canaan</l><stg><st Contlex="N_">canaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">nuhtelu</t></tg></mg></e>
+<e><lg><l pos="N">canab</l><stg><st Contlex="N_">canab</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">viinirypäleet</t></tg></mg></e>
+<e><lg><l pos="N">cananaas</l><stg><st Contlex="N_">cananaas</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">ananas</t></tg></mg></e>
+<e><lg><l pos="N">cananaqsi</l><stg><st Contlex="N_">cananaqsi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">märehditty rehu</t></tg></mg></e>
+<e><lg><l pos="N">canbar</l><stg><st Contlex="N_">canbar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">meripihka</t></tg></mg></e>
+<e><lg><l pos="N">canbuur</l><stg><st Contlex="N_">canbuur</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">mekko</t><t pos="N">leninki</t></tg></mg></e>
+<e><lg><l pos="N">candho</l><stg><st Contlex="N_">candho</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">utare</t></tg></mg></e>
+<e><lg><l pos="N">candhuuf</l><stg><st Contlex="N_">candhuuf</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sylki</t></tg></mg></e>
+<e><lg><l pos="N">canjeero</l><stg><st Contlex="N_">canjeero</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">somalialainen lettu</t></tg></mg></e>
+<e><lg><l pos="N">canshuur</l><stg><st Contlex="N_">canshuur</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">vero</t></tg></mg></e>
+<e><lg><l pos="N">Carab</l><stg><st Contlex="N_">Carab</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">arabialainen</t></tg></mg></e>
+<e><lg><l pos="N">carrab</l><stg><st Contlex="N_">carrab</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kieli</t></tg></mg></e>
+<e><lg><l pos="N">carruur</l><stg><st Contlex="N_">carruur</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lapset</t></tg></mg></e>
+<e><lg><l pos="N">casho</l><stg><st Contlex="N_">casho</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">päivällinen</t><t pos="N">illallinen</t></tg></mg></e>
+<e><lg><l pos="N">casir</l><stg><st Contlex="N_">casir</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">iltapäivä</t><t pos="N">iltapäivän rukoukset</t></tg></mg></e>
+<e><lg><l pos="N">cayayaan</l><stg><st Contlex="N_">cayayaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">hyönteinen</t><t pos="N">hyönteiset</t></tg></mg></e>
+<e><lg><l pos="N">cayayaanaqoon</l><stg><st Contlex="N_">cayayaanaqoon</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">hyönteistiede</t></tg></mg></e>
+<e><lg><l pos="N">ciddi</l><stg><st Contlex="N_">ciddi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kynsi</t></tg></mg></e>
+<e><lg><l pos="N">cillaan</l><stg><st Contlex="N_">cillaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">henna</t></tg></mg></e>
+<e><lg><l pos="N">cilmi-afeed</l><stg><st Contlex="N_">cilmi-afeed</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kielitiede</t></tg></mg></e>
+<e><lg><l pos="N">cilmi beereed</l><stg><st Contlex="N_">cilmi beereed</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">maataloustiede</t><t pos="N">agronomia</t></tg></mg></e>
+<e><lg><l pos="N">cilmiga cimilada</l><stg><st Contlex="N_">cilmiga cimilada</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">säätiede</t><t pos="N">meteorologia</t></tg></mg></e>
+<e><lg><l pos="N">cilmiga-naflayda</l><stg><st Contlex="N_">cilmiga-naflayda</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">eläintiede</t></tg></mg></e>
+<e><lg><l pos="N">cilmi-nafsi</l><stg><st Contlex="N_">cilmi-nafsi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">psykologia</t><t pos="N">sielutiede</t></tg></mg></e>
+<e><lg><l pos="N">cir</l><stg><st Contlex="N_">cir</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">taivas</t></tg></mg></e>
+<e><lg><l pos="N">cirbexeen</l><stg><st Contlex="N_">cirbexeen</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">astronautti</t><t pos="N">avaruuslentäjä</t></tg></mg></e>
+<e><lg><l pos="N">cirfiid</l><stg><st Contlex="N_">cirfiid</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">demoni</t><t pos="N">paholainen</t></tg></mg></e>
+<e><lg><l pos="N">cirib</l><stg><st Contlex="N_">cirib</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kantapää</t><t pos="N">kohtalo</t><t pos="N">seuraukset</t></tg></mg></e>
+<e><lg><l pos="N">cirrid</l><stg><st Contlex="N_">cirrid</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">ikenet</t></tg></mg></e>
+<e><lg><l pos="N">cudur</l><stg><st Contlex="N_">cudur</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">vaiva</t><t pos="N">sairaus</t></tg></mg></e>
+<e><lg><l pos="N">cunsuri</l><stg><st Contlex="N_">cunsuri</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">rasisti</t></tg></mg></e>
+<e><lg><l pos="N">cunsuriyad</l><stg><st Contlex="N_">cunsuriyad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">rasismi</t></tg></mg></e>
+<e><lg><l pos="N">cusbo</l><stg><st Contlex="N_">cusbo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">suola</t></tg></mg></e>
+<e><lg><l pos="N">daabac</l><stg><st Contlex="N_">daabac</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">painaminen</t></tg></mg></e>
+<e><lg><l pos="N">daabacaad</l><stg><st Contlex="N_">daabacaad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">painos</t></tg></mg></e>
+<e><lg><l pos="N">daabece</l><stg><st Contlex="N_">daabece</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kirjanpainaja</t></tg></mg></e>
+<e><lg><l pos="N">daaco</l><stg><st Contlex="N_">daaco</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">röyhtäys</t><t pos="N">röyhtäisy</t></tg></mg></e>
+<e><lg><l pos="N">daacuun</l><stg><st Contlex="N_">daacuun</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kolera</t></tg></mg></e>
+<e><lg><l pos="N">daah</l><stg><st Contlex="N_">daah</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">verho</t></tg></mg></e>
+<e><lg><l pos="N">daan</l><stg><st Contlex="N_">daan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">alaleuka</t><t pos="N">poski</t></tg></mg></e>
+<e><lg><l pos="N">daanyeer</l><stg><st Contlex="N_">daanyeer</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">apina</t><t pos="N">paviaani</t></tg></mg></e>
+<e><lg><l pos="N">daawo</l><stg><st Contlex="N_">daawo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lääke</t></tg></mg></e>
+<e><lg><l pos="N">dab</l><stg><st Contlex="N_">dab</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tuli</t></tg></mg></e>
+<e><lg><l pos="N">dabayl</l><stg><st Contlex="N_">dabayl</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tuuli</t><t pos="N">halvaus</t><t pos="N">lapsihalvaus</t><t pos="N">polio</t></tg></mg></e>
+<e><lg><l pos="N">dabci</l><stg><st Contlex="N_">dabci</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">luonne</t><t pos="N">käyttäytyminen</t></tg></mg></e>
+<e><lg><l pos="N">dabdamis</l><stg><st Contlex="N_">dabdamis</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">palokunta</t></tg></mg></e>
+<e><lg><l pos="N">dabdamiye</l><stg><st Contlex="N_">dabdamiye</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">palomies</t></tg></mg></e>
+<e><lg><l pos="N">dabaal</l><stg><st Contlex="N_">dabaal</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">uinti</t></tg></mg></e>
+<e><lg><l pos="N">dabacase</l><stg><st Contlex="N_">dabacase</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">porkkana</t></tg></mg></e>
+<e><lg><l pos="N">karooto</l><stg><st Contlex="N_">karooto</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">porkkana</t></tg></mg></e>
+<e><lg><l pos="N">dabadhilif</l><stg><st Contlex="N_">dabadhilif</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">käsikassara</t></tg></mg></e>
+<e><lg><l pos="N">dabagaalle</l><stg><st Contlex="N_">dabagaalle</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">orava</t></tg></mg></e>
+<e><lg><l pos="N">dabo</l><stg><st Contlex="N_">dabo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">takapuoli</t><t pos="N">takamus</t></tg></mg></e>
+<e><lg><l pos="N">dabool</l><stg><st Contlex="N_">dabool</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kansi</t></tg></mg></e>
+<e><lg><l pos="N">dad</l><stg><st Contlex="N_">dad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">ihmiset</t><t pos="N">kansa</t><t pos="N">väestö</t><t pos="N">väki</t></tg></mg></e>
+<e><lg><l pos="N">dagaal-aqoon</l><stg><st Contlex="N_">dagaal-aqoon</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">strategia</t><t pos="N">sodanjohtotaito</t></tg></mg></e>
+<e><lg><l pos="N">dagaalyahan</l><stg><st Contlex="N_">dagaalyahan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">taistelija</t><t pos="N">soturi</t></tg></mg></e>
+<e><lg><l pos="N">dahab</l><stg><st Contlex="N_">dahab</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kulta</t></tg></mg></e>
+<e><lg><l pos="N">dahable</l><stg><st Contlex="N_">dahable</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kultaseppä</t></tg></mg></e>
+<e><lg><l pos="N">dalkucelin</l><stg><st Contlex="N_">dalkucelin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">palautus</t><t pos="N">kotiutus</t></tg></mg></e>
+<e><lg><l pos="N">dalxiise</l><stg><st Contlex="N_">dalxiise</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">turisti</t><t pos="N">matkailija</t></tg></mg></e>
+<e><lg><l pos="N">dameer</l><stg><st Contlex="N_">dameer</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">aasi</t></tg></mg></e>
+<e><lg><l pos="N">dameer farow</l><stg><st Contlex="N_">dameer farow</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">seepra</t></tg></mg></e>
+<e><lg><l pos="N">daqiiqad</l><stg><st Contlex="N_">daqiiqad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">minuutti</t></tg></mg></e>
+<e><lg><l pos="N">dareeme</l><stg><st Contlex="N_">dareeme</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">aisti</t><t pos="N">hermo</t></tg></mg></e>
+<e><lg><l pos="N">dariishad</l><stg><st Contlex="N_">dariishad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">ikkuna</t></tg></mg></e>
+<e><lg><l pos="N">dareere</l><stg><st Contlex="N_">dareere</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">neste</t></tg></mg></e>
+<e><lg><l pos="N">daruur</l><stg><st Contlex="N_">daruur</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">pilvi</t></tg></mg></e>
+<e><lg><l pos="N">dawaco</l><stg><st Contlex="N_">dawaco</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kettu</t></tg></mg></e>
+<e><lg><l pos="N">dayr</l><stg><st Contlex="N_">dayr</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">syksy</t></tg></mg></e>
+<e><lg><l pos="N">derbi</l><stg><st Contlex="N_">derbi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">seinä</t><t pos="N">muuri</t></tg></mg></e>
+<e><lg><l pos="N">deris</l><stg><st Contlex="N_">deris</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">naapuri</t></tg></mg></e>
+<e><lg><l pos="N">dhab</l><stg><st Contlex="N_">dhab</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">syli</t></tg></mg></e>
+<e><lg><l pos="N">dhaban</l><stg><st Contlex="N_">dhaban</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">poski</t><t pos="N">parillinen numero</t></tg></mg></e>
+<e><lg><l pos="N">dhabar</l><stg><st Contlex="N_">dhabar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">selkä</t></tg></mg></e>
+<e><lg><l pos="N">dhadhaab</l><stg><st Contlex="N_">dhadhaab</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kallio</t></tg></mg></e>
+<e><lg><l pos="N">dhadhan</l><stg><st Contlex="N_">dhadhan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">maku</t></tg></mg></e>
+<e><lg><l pos="N">dhafoor</l><stg><st Contlex="N_">dhafoor</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">ohimo</t></tg></mg></e>
+<e><lg><l pos="N">dhagax</l><stg><st Contlex="N_">dhagax</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kivi</t></tg></mg></e>
+<e><lg><l pos="N">dhakhtar</l><stg><st Contlex="N_">dhakhtar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lääkäri</t></tg></mg></e>
+<e><lg><l pos="N">dhamme</l><stg><st Contlex="N_">dhamme</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kapteeni</t></tg></mg></e>
+<e><lg><l pos="N">dhaqaale</l><stg><st Contlex="N_">dhaqaale</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">taloustiede</t><t pos="N">ekonomia</t></tg></mg></e>
+<e><lg><l pos="N">dhawaaq yar</l><stg><st Contlex="N_">dhawaaq yar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">huudahdus</t></tg></mg></e>
+<e><lg><l pos="N">dheddig</l><stg><st Contlex="N_">dheddig</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">feminiini (kielioppi)</t></tg></mg></e>
+<e><lg><l pos="N">dheecaanka qanjirada qaarkood</l><stg><st Contlex="N_">dheecaanka qanjirada qaarkood</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">hormoni</t></tg></mg></e>
+<e><lg><l pos="N">dheg</l><stg><st Contlex="N_">dheg</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">korva</t></tg></mg></e>
+<e><lg><l pos="N">dhegayare</l><stg><st Contlex="N_">dhegayare</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">neilikka</t></tg></mg></e>
+<e><lg><l pos="N">dhego</l><stg><st Contlex="N_">dhego</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">korvakoru</t><t pos="N">korvarengas</t></tg></mg></e>
+<e><lg><l pos="N">dhegoole</l><stg><st Contlex="N_">dhegoole</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kuuro</t></tg></mg></e>
+<e><lg><l pos="N">dhidid</l><stg><st Contlex="N_">dhidid</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">hiki</t><t pos="N">hikoilu</t></tg></mg></e>
+<e><lg><l pos="N">dhidid</l><stg><st Contlex="N_">dhidid</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">hikoilla</t><t pos="N">hiota</t></tg></mg></e>
+<e><lg><l pos="N">dhiig</l><stg><st Contlex="N_">dhiig</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">veri</t></tg></mg></e>
+<e><lg><l pos="N">dhiigkar</l><stg><st Contlex="N_">dhiigkar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">verenpaine</t></tg></mg></e>
+<e><lg><l pos="N">dhiigkushub</l><stg><st Contlex="N_">dhiigkushub</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">verensiirto</t></tg></mg></e>
+<e><lg><l pos="N">dhiigyari</l><stg><st Contlex="N_">dhiigyari</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">vähäverisyys</t><t pos="N">anemia</t></tg></mg></e>
+<e><lg><l pos="N">dhir</l><stg><st Contlex="N_">dhir</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">                   kasvi</t></tg></mg></e>
+<e><lg><l pos="N">dhukay</l><stg><st Contlex="N_">dhukay</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">korvavaha</t><t pos="N">vaikku</t></tg></mg></e>
+<e><lg><l pos="N">dhul</l><stg><st Contlex="N_">dhul</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">maa</t><t pos="N">kotimaa</t><t pos="N">isänmaa</t></tg></mg></e>
+<e><lg><l pos="N">dhulgariir</l><stg><st Contlex="N_">dhulgariir</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">maanjäristys</t></tg></mg></e>
+<e><lg><l pos="N">dhuuso</l><stg><st Contlex="N_">dhuuso</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">pieru</t></tg></mg></e>
+<e><lg><l pos="N">dibi</l><stg><st Contlex="N_">dibi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sonni</t><t pos="N">härkä</t></tg></mg></e>
+<e><lg><l pos="N">dibi yar</l><stg><st Contlex="N_">dibi yar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">vasikka</t></tg></mg></e>
+<e><lg><l pos="N">weyl</l><stg><st Contlex="N_">weyl</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">vasikka</t></tg></mg></e>
+<e><lg><l pos="N">dibkabe</l><stg><st Contlex="N_">dibkabe</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">loppuliite (kielioppi)</t></tg></mg></e>
+<e><lg><l pos="N">dibno</l><stg><st Contlex="N_">dibno</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">huulet</t></tg></mg></e>
+<e><lg><l pos="N">digaagad</l><stg><st Contlex="N_">digaagad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kana</t></tg></mg></e>
+<e><lg><l pos="N">digsi</l><stg><st Contlex="N_">digsi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kattila</t></tg></mg></e>
+<e><lg><l pos="N">diidmo</l><stg><st Contlex="N_">diidmo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kieltosana</t></tg></mg></e>
+<e><lg><l pos="N">diin</l><stg><st Contlex="N_">diin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">uskonto</t></tg></mg></e>
+<e><lg><l pos="N">diindarro</l><stg><st Contlex="N_">diindarro</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">uskonnottomuus</t></tg></mg></e>
+<e><lg><l pos="N">diindiin</l><stg><st Contlex="N_">diindiin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kilpikonna</t></tg></mg></e>
+<e><lg><l pos="N">diiq</l><stg><st Contlex="N_">diiq</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kukko</t></tg></mg></e>
+<e><lg><l pos="N">diirad</l><stg><st Contlex="N_">diirad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kompassi</t><t pos="N">tarkennus</t><t pos="N">fokus (kielioppi)</t></tg></mg></e>
+<e><lg><l pos="N">diiwaan</l><stg><st Contlex="N_">diiwaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">rekisteri</t></tg></mg></e>
+<e><lg><l pos="N">diiwaan</l><stg><st Contlex="N_">diiwaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sisällysluettelo</t></tg></mg></e>
+<e><lg><l pos="N">dimoqraadi</l><stg><st Contlex="N_">dimoqraadi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">demokraatti</t><t pos="N">kansanvalta</t><t pos="N">demokratia</t><t pos="N">demokraattinen</t></tg></mg></e>
+<e><lg><l pos="N">Disembar</l><stg><st Contlex="N_">Disembar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">joulukuu</t></tg></mg></e>
+<e><lg><l pos="N">diyaar</l><stg><st Contlex="N_">diyaar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">valmius</t></tg></mg></e>
+<e><lg><l pos="N">diyaarad</l><stg><st Contlex="N_">diyaarad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lentokone</t></tg></mg></e>
+<e><lg><l pos="N">doon</l><stg><st Contlex="N_">doon</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">vene</t></tg></mg></e>
+<e><lg><l pos="N">doonfaar</l><stg><st Contlex="N_">doonfaar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sika</t><t pos="N">porsas</t></tg></mg></e>
+<e><lg><l pos="N">dooro</l><stg><st Contlex="N_">dooro</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kana</t></tg></mg></e>
+<e><lg><l pos="N">dowlad</l><stg><st Contlex="N_">dowlad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">valtio</t></tg></mg></e>
+<e><lg><l pos="N">dugsi</l><stg><st Contlex="N_">dugsi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">koulu</t><t pos="N">oppilaitos</t><t pos="N">Koraanin koulu</t><t pos="N">suoja</t></tg></mg></e>
+<e><lg><l pos="N">dugsiga dhexe</l><stg><st Contlex="N_">dugsiga dhexe</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">yläaste</t></tg></mg></e>
+<e><lg><l pos="N">dugsiga hoose</l><stg><st Contlex="N_">dugsiga hoose</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">ala-aste</t></tg></mg></e>
+<e><lg><l pos="N">dugsiga sare</l><stg><st Contlex="N_">dugsiga sare</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lukio</t><t pos="N">oppilaitos</t></tg></mg></e>
+<e><lg><l pos="N">dugsiley</l><stg><st Contlex="N_">dugsiley</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">koululaiset</t><t pos="N">opiskelijat Koraanin koulussa</t></tg></mg></e>
+<e><lg><l pos="N">duhur</l><stg><st Contlex="N_">duhur</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">keskipäivä</t><t pos="N">puolipäivä</t></tg></mg></e>
+<e><lg><l pos="N">dukaan</l><stg><st Contlex="N_">dukaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kauppa</t><t pos="N">myymälä</t></tg></mg></e>
+<e><lg><l pos="N">dukaanle</l><stg><st Contlex="N_">dukaanle</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kauppias</t><t pos="N">liikkeenharjoittaja</t></tg></mg></e>
+<e><lg><l pos="N">dumaashi</l><stg><st Contlex="N_">dumaashi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">käly</t></tg></mg></e>
+<e><lg><l pos="N">duqsi</l><stg><st Contlex="N_">duqsi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kärpänen</t></tg></mg></e>
+<e><lg><l pos="N">duuliye</l><stg><st Contlex="N_">duuliye</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lentäjä</t></tg></mg></e>
+<e><lg><l pos="N">duumo</l><stg><st Contlex="N_">duumo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">malaria</t><t pos="N">horkka</t></tg></mg></e>
+<e><lg><l pos="N">eeddo</l><stg><st Contlex="N_">eeddo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">täti</t><t pos="N">isän sisko</t><t pos="N">äitipuoli</t></tg></mg></e>
+<e><lg><l pos="N">eey</l><stg><st Contlex="N_">eey</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">koira</t></tg></mg></e>
+<e><lg><l pos="N">erey</l><stg><st Contlex="N_">erey</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sana</t></tg></mg></e>
+<e><lg><l pos="N">faafreeb</l><stg><st Contlex="N_">faafreeb</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sensuuri</t></tg></mg></e>
+<e><lg><l pos="N">faallo</l><stg><st Contlex="N_">faallo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kommentaari</t><t pos="N">tekstinselitys</t></tg></mg></e>
+<e><lg><l pos="N">faas</l><stg><st Contlex="N_">faas</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kirves</t></tg></mg></e>
+<e><lg><l pos="N">fale</l><stg><st Contlex="N_">fale</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tekijä</t><t pos="N">subjekti {kielioppi}</t></tg></mg></e>
+<e><lg><l pos="N">falkaab</l><stg><st Contlex="N_">falkaab</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">adverbi</t><t pos="N">seikkasana {kielioppi}</t></tg></mg></e>
+<e><lg><l pos="N">falsafad</l><stg><st Contlex="N_">falsafad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">filosofia</t></tg></mg></e>
+<e><lg><l pos="N">far</l><stg><st Contlex="N_">far</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sormi</t><t pos="N">käsiala</t><t pos="N">kirjoitus</t></tg></mg></e>
+<e><lg><l pos="N">farammaggooggo</l><stg><st Contlex="N_">farammaggooggo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">mustekala</t></tg></mg></e>
+<e><lg><l pos="N">faras</l><stg><st Contlex="N_">faras</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">hevonen</t></tg></mg></e>
+<e><lg><l pos="N">farmaajo</l><stg><st Contlex="N_">farmaajo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">juusto</t></tg></mg></e>
+<e><lg><l pos="N">Far Soomaali</l><stg><st Contlex="N_">Far Soomaali</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">somalialainen kirjoitus</t></tg></mg></e>
+<e><lg><l pos="N">farto</l><stg><st Contlex="N_">farto</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">imperatiivi</t><t pos="N">käskytapa (kielioppi)</t></tg></mg></e>
+<e><lg><l pos="N">faryaro</l><stg><st Contlex="N_">faryaro</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">pikkusormi</t></tg></mg></e>
+<e><lg><l pos="N">faras</l><stg><st Contlex="N_">faras</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">hevonen</t></tg></mg></e>
+<e><lg><l pos="N">faras yar</l><stg><st Contlex="N_">faras yar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">varsa</t></tg></mg></e>
+<e><lg><l pos="N">fargeeto</l><stg><st Contlex="N_">fargeeto</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">haarukka</t></tg></mg></e>
+<e><lg><l pos="N">fasal</l><stg><st Contlex="N_">fasal</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">luokka</t></tg></mg></e>
+<e><lg><l pos="N">Febraayo</l><stg><st Contlex="N_">Febraayo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">helmikuu</t></tg></mg></e>
+<e><lg><l pos="N">fiid</l><stg><st Contlex="N_">fiid</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">alkuilta</t></tg></mg></e>
+<e><lg><l pos="N">fiidmeer (kibilli)</l><stg><st Contlex="N_">fiidmeer (kibilli)</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lepakko</t></tg></mg></e>
+<e><lg><l pos="N">fiise</l><stg><st Contlex="N_">fiise</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">viisumi</t></tg></mg></e>
+<e><lg><l pos="N">fiise dalkumar</l><stg><st Contlex="N_">fiise dalkumar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kauttakulkuviisumi</t></tg></mg></e>
+<e><lg><l pos="N">fiish</l><stg><st Contlex="N_">fiish</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sidekalvontulehdus</t></tg></mg></e>
+<e><lg><l pos="N">filfil</l><stg><st Contlex="N_">filfil</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">mustapippuri</t></tg></mg></e>
+<e><lg><l pos="N">filin</l><stg><st Contlex="N_">filin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">elokuva</t></tg></mg></e>
+<e><lg><l pos="N">fin</l><stg><st Contlex="N_">fin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">näppylä</t><t pos="N">finni</t></tg></mg></e>
+<e><lg><l pos="N">firinbi</l><stg><st Contlex="N_">firinbi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">pilli</t></tg></mg></e>
+<e><lg><l pos="N">firinjeer</l><stg><st Contlex="N_">firinjeer</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">jääkaappi</t></tg></mg></e>
+<e><lg><l pos="N">fool</l><stg><st Contlex="N_">fool</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kasvot</t><t pos="N">otsa</t><t pos="N">etuhammas</t></tg></mg></e>
+<e><lg><l pos="N">fool</l><stg><st Contlex="N_">fool</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">synnytyspoltot</t><t pos="N">synnytyssupistus</t></tg></mg></e>
+<e><lg><l pos="N">foolmaroodi</l><stg><st Contlex="N_">foolmaroodi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">norsunluu</t></tg></mg></e>
+<e><lg><l pos="N">foolxumo</l><stg><st Contlex="N_">foolxumo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">rumuus</t></tg></mg></e>
+<e><lg><l pos="N">fulay</l><stg><st Contlex="N_">fulay</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">pelkuri</t></tg></mg></e>
+<e><lg><l pos="N">funaanad</l><stg><st Contlex="N_">funaanad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">pusero</t><t pos="N">villapaita</t></tg></mg></e>
+<e><lg><l pos="N">fur</l><stg><st Contlex="N_">fur</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">korkki</t></tg></mg></e>
+<e><lg><l pos="N">furdo</l><stg><st Contlex="N_">furdo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tulli</t></tg></mg></e>
+<e><lg><l pos="N">fure</l><stg><st Contlex="N_">fure</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">avain</t></tg></mg></e>
+<e><lg><l pos="N">furuq</l><stg><st Contlex="N_">furuq</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">isorokko</t></tg></mg></e>
+<e><lg><l pos="N">gaadiid</l><stg><st Contlex="N_">gaadiid</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">juhta</t><t pos="N">kuljetus</t><t pos="N">ajoneuvo</t><t pos="N">liikenne</t></tg></mg></e>
+<e><lg><l pos="N">gaal</l><stg><st Contlex="N_">gaal</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">ei-muslimi</t><t pos="N">epäuskoinen</t></tg></mg></e>
+<e><lg><l pos="N">gabar</l><stg><st Contlex="N_">gabar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tyttö</t><t pos="N">tytär</t><t pos="N">neito</t><t pos="N">neitsyt</t></tg></mg></e>
+<e><lg><l pos="N">gabarey-maanyo</l><stg><st Contlex="N_">gabarey-maanyo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">merenneito</t></tg></mg></e>
+<e><lg><l pos="N">gabay</l><stg><st Contlex="N_">gabay</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">runo</t></tg></mg></e>
+<e><lg><l pos="N">gabayaa</l><stg><st Contlex="N_">gabayaa</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">runoilija</t></tg></mg></e>
+<e><lg><l pos="N">gacan</l><stg><st Contlex="N_">gacan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">käsi</t><t pos="N">säde {matematiikka}</t></tg></mg></e>
+<e><lg><l pos="N">galab</l><stg><st Contlex="N_">galab</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">iltapäivä</t></tg></mg></e>
+<e><lg><l pos="N">galbeed</l><stg><st Contlex="N_">galbeed</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">länsi</t></tg></mg></e>
+<e><lg><l pos="N">gallay</l><stg><st Contlex="N_">gallay</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">maissi</t></tg></mg></e>
+<e><lg><l pos="N">gallayr</l><stg><st Contlex="N_">gallayr</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kotka</t></tg></mg></e>
+<e><lg><l pos="N">galmo</l><stg><st Contlex="N_">galmo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">yhdyntä</t><t pos="N">seksi</t><t pos="N">rakastelu</t></tg></mg></e>
+<e><lg><l pos="N">ganac</l><stg><st Contlex="N_">ganac</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">haima</t></tg></mg></e>
+<e><lg><l pos="N">gar</l><stg><st Contlex="N_">gar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">parta</t><t pos="N">leuka</t></tg></mg></e>
+<e><lg><l pos="N">garab</l><stg><st Contlex="N_">garab</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">hartia</t><t pos="N">olkapää</t></tg></mg></e>
+<e><lg><l pos="N">garyaqaan</l><stg><st Contlex="N_">garyaqaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lakimies</t><t pos="N">asianajaja</t></tg></mg></e>
+<e><lg><l pos="N">gaashaanle</l><stg><st Contlex="N_">gaashaanle</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">majuri</t></tg></mg></e>
+<e><lg><l pos="N">gaashaanle dhexe</l><stg><st Contlex="N_">gaashaanle dhexe</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">everstiluutnantti</t></tg></mg></e>
+<e><lg><l pos="N">gaashaanle sare</l><stg><st Contlex="N_">gaashaanle sare</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">eversti</t></tg></mg></e>
+<e><lg><l pos="N">geed</l><stg><st Contlex="N_">geed</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">puu</t></tg></mg></e>
+<e><lg><l pos="N">geel</l><stg><st Contlex="N_">geel</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kameli</t></tg></mg></e>
+<e><lg><l pos="N">geelcaacis</l><stg><st Contlex="N_">geelcaacis</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">juoksujalkainen</t></tg></mg></e>
+<e><lg><l pos="N">geelmaanyo</l><stg><st Contlex="N_">geelmaanyo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">dugongi</t><t pos="N">merilehmä</t><t pos="N">manaatti</t></tg></mg></e>
+<e><lg><l pos="N">geenyo</l><stg><st Contlex="N_">geenyo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tamma</t></tg></mg></e>
+<e><lg><l pos="N">geri</l><stg><st Contlex="N_">geri</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kirahvi</t></tg></mg></e>
+<e><lg><l pos="N">go’</l><stg><st Contlex="N_">go’</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lakana</t></tg></mg></e>
+<e><lg><l pos="N">goob</l><stg><st Contlex="N_">goob</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">paikka</t></tg></mg></e>
+<e><lg><l pos="N">goobjooge</l><stg><st Contlex="N_">goobjooge</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">todistaja</t><t pos="N">silminnäkijä</t></tg></mg></e>
+<e><lg><l pos="N">goobo</l><stg><st Contlex="N_">goobo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">ympyrä</t></tg></mg></e>
+<e><lg><l pos="N">gooryaan</l><stg><st Contlex="N_">gooryaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">mato</t></tg></mg></e>
+<e><lg><l pos="N">gorgor</l><stg><st Contlex="N_">gorgor</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">korppikotka</t></tg></mg></e>
+<e><lg><l pos="N">gorgoro</l><stg><st Contlex="N_">gorgoro</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tinkiminen</t></tg></mg></e>
+<e><lg><l pos="N">goronyo</l><stg><st Contlex="N_">goronyo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">strutsi</t></tg></mg></e>
+<e><lg><l pos="N">gowracato</l><stg><st Contlex="N_">gowracato</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kurkkumätä</t></tg></mg></e>
+<e><lg><l pos="N">gu’</l><stg><st Contlex="N_">gu’</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kevät</t></tg></mg></e>
+<e><lg><l pos="N">guduud</l><stg><st Contlex="N_">guduud</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">punainen</t></tg></mg></e>
+<e><lg><l pos="N">guluub</l><stg><st Contlex="N_">guluub</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">hehkulamppu</t></tg></mg></e>
+<e><lg><l pos="N">guluus</l><stg><st Contlex="N_">guluus</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">nappi</t></tg></mg></e>
+<e><lg><l pos="N">gumeysi</l><stg><st Contlex="N_">gumeysi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">imperialismi</t><t pos="N">kolonialismi</t></tg></mg></e>
+<e><lg><l pos="N">guri</l><stg><st Contlex="N_">guri</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">talo</t><t pos="N">koti</t></tg></mg></e>
+<e><lg><l pos="N">gus</l><stg><st Contlex="N_">gus</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">penis</t><t pos="N">siitin</t></tg></mg></e>
+<e><lg><l pos="N">guumeys</l><stg><st Contlex="N_">guumeys</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">pöllö</t></tg></mg></e>
+<e><lg><l pos="N">guur</l><stg><st Contlex="N_">guur</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">avioliitto</t></tg></mg></e>
+<e><lg><l pos="N">guur kale</l><stg><st Contlex="N_">guur kale</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">uudelleen avioituminen</t></tg></mg></e>
+<e><lg><l pos="N">habaryar</l><stg><st Contlex="N_">habaryar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">täti</t><t pos="N">äidin sisko</t></tg></mg></e>
+<e><lg><l pos="N">habeen</l><stg><st Contlex="N_">habeen</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">yö</t></tg></mg></e>
+<e><lg><l pos="N">halbowlaha wadnaha dhiigga ka qaada</l><stg><st Contlex="N_">halbowlaha wadnaha dhiigga ka qaada</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">aortta</t></tg></mg></e>
+<e><lg><l pos="N">halyeey</l><stg><st Contlex="N_">halyeey</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sankari</t></tg></mg></e>
+<e><lg><l pos="N">hamaansi</l><stg><st Contlex="N_">hamaansi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">haukotus</t><t pos="N">haukottelu</t></tg></mg></e>
+<e><lg><l pos="N">hantiggoosi</l><stg><st Contlex="N_">hantiggoosi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kapitalismi</t><t pos="N">kapitalisti</t></tg></mg></e>
+<e><lg><l pos="N">hantiwadaag</l><stg><st Contlex="N_">hantiwadaag</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sosialismi</t><t pos="N">sosialisti</t></tg></mg></e>
+<e><lg><l pos="N">haramcad</l><stg><st Contlex="N_">haramcad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">gepardi</t></tg></mg></e>
+<e><lg><l pos="N">hargab</l><stg><st Contlex="N_">hargab</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">nuha</t><t pos="N">flunssa</t></tg></mg></e>
+<e><lg><l pos="N">haro</l><stg><st Contlex="N_">haro</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">järvi</t></tg></mg></e>
+<e><lg><l pos="N">hawamareen</l><stg><st Contlex="N_">hawamareen</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">henkitorvi</t></tg></mg></e>
+<e><lg><l pos="N">hawd dihin</l><stg><st Contlex="N_">hawd dihin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">aarnialue</t></tg></mg></e>
+<e><lg><l pos="N">hayl</l><stg><st Contlex="N_">hayl</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kardemumma</t></tg></mg></e>
+<e><lg><l pos="N">hees</l><stg><st Contlex="N_">hees</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">laulu</t></tg></mg></e>
+<e><lg><l pos="N">heesaa</l><stg><st Contlex="N_">heesaa</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">laulaja</t></tg></mg></e>
+<e><lg><l pos="N">hidde</l><stg><st Contlex="N_">hidde</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kulttuuri</t><t pos="N">perinne</t><t pos="N">tapa</t></tg></mg></e>
+<e><lg><l pos="N">hidde-side</l><stg><st Contlex="N_">hidde-side</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">geeni</t></tg></mg></e>
+<e><lg><l pos="N">hilib</l><stg><st Contlex="N_">hilib</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">liha</t></tg></mg></e>
+<e><lg><l pos="N">hilibka bowdada doofaarka</l><stg><st Contlex="N_">hilibka bowdada doofaarka</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kinkku</t></tg></mg></e>
+<e><lg><l pos="N">hilib doofaar</l><stg><st Contlex="N_">hilib doofaar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sianliha</t></tg></mg></e>
+<e><lg><l pos="N">hilib idaad</l><stg><st Contlex="N_">hilib idaad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lampaanliha</t></tg></mg></e>
+<e><lg><l pos="N">hilib lo'aad</l><stg><st Contlex="N_">hilib lo'aad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">pihvi</t></tg></mg></e>
+<e><lg><l pos="N">hindhiso</l><stg><st Contlex="N_">hindhiso</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">aivastus</t></tg></mg></e>
+<e><lg><l pos="N">hingo</l><stg><st Contlex="N_">hingo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">nikotus</t><t pos="N">hikka</t></tg></mg></e>
+<e><lg><l pos="N">hir</l><stg><st Contlex="N_">hir</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">aalto</t><t pos="N">laine </t><t pos="N">radioaalto</t></tg></mg></e>
+<e><lg><l pos="N">hirar</l><stg><st Contlex="N_">hirar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">laineet</t></tg></mg></e>
+<e><lg><l pos="N">hirarka dhaadheer</l><stg><st Contlex="N_">hirarka dhaadheer</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">pitkät aallot</t></tg></mg></e>
+<e><lg><l pos="N">hirarka dhexe</l><stg><st Contlex="N_">hirarka dhexe</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">keskipitkät aallot</t></tg></mg></e>
+<e><lg><l pos="N">hirarka gaagaaban</l><stg><st Contlex="N_">hirarka gaagaaban</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lyhyet aallot</t></tg></mg></e>
+<e><lg><l pos="N">hirdan</l><stg><st Contlex="N_">hirdan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">yhteentörmäys</t><t pos="N">pusku</t></tg></mg></e>
+<e><lg><l pos="N">hoombaro</l><stg><st Contlex="N_">hoombaro</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">delfiini</t></tg></mg></e>
+<e><lg><l pos="N">hooyo</l><stg><st Contlex="N_">hooyo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">äiti</t></tg></mg></e>
+<e><lg><l pos="N">hooyonnimo</l><stg><st Contlex="N_">hooyonnimo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">äitiys</t></tg></mg></e>
+<e><lg><l pos="N">hordhac</l><stg><st Contlex="N_">hordhac</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">esipuhe</t></tg></mg></e>
+<e><lg><l pos="N">hunguricad</l><stg><st Contlex="N_">hunguricad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">henkitorvi</t></tg></mg></e>
+<e><lg><l pos="N">ib</l><stg><st Contlex="N_">ib</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">nänni</t></tg></mg></e>
+<e><lg><l pos="N">ido</l><stg><st Contlex="N_">ido</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lammas</t></tg></mg></e>
+<e><lg><l pos="N">il</l><stg><st Contlex="N_">il</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">silmä</t></tg></mg></e>
+<e><lg><l pos="N">ilbaxnimo</l><stg><st Contlex="N_">ilbaxnimo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sivilisaatio</t></tg></mg></e>
+<e><lg><l pos="N">ilbiriqsi</l><stg><st Contlex="N_">ilbiriqsi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">silmänräpäys</t><t pos="N">sekunti</t></tg></mg></e>
+<e><lg><l pos="N">ilig</l><stg><st Contlex="N_">ilig</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">hammas</t></tg></mg></e>
+<e><lg><l pos="N">ilig-xanuun</l><stg><st Contlex="N_">ilig-xanuun</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">hammassärky</t></tg></mg></e>
+<e><lg><l pos="N">ilmaggaleen</l><stg><st Contlex="N_">ilmaggaleen</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kohtu</t></tg></mg></e>
+<e><lg><l pos="N">ilmaha digaagadda</l><stg><st Contlex="N_">ilmaha digaagadda</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kananpoika</t></tg></mg></e>
+<e><lg><l pos="N">ilmaha idaha</l><stg><st Contlex="N_">ilmaha idaha</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">karitsa</t></tg></mg></e>
+<e><lg><l pos="N">nayl</l><stg><st Contlex="N_">nayl</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">karitsa</t></tg></mg></e>
+<e><lg><l pos="N">ilmo</l><stg><st Contlex="N_">ilmo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lapsi</t><t pos="N">lapset</t><t pos="N">jälkeläinen</t><t pos="N">vauva</t></tg></mg></e>
+<e><lg><l pos="N">ilmo</l><stg><st Contlex="N_">ilmo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kyynel</t><t pos="N">kyyneleet</t></tg></mg></e>
+<e><lg><l pos="N">imaam</l><stg><st Contlex="N_">imaam</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">Imaami</t><t pos="N">johtaja</t></tg></mg></e>
+<e><lg><l pos="N">imtixaan</l><stg><st Contlex="N_">imtixaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">koe</t><t pos="N">tentti</t></tg></mg></e>
+<e><lg><l pos="N">ina</l><stg><st Contlex="N_">ina</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">poika</t><t pos="N">tytär</t></tg></mg></e>
+<e><lg><l pos="N">ina-abti</l><stg><st Contlex="N_">ina-abti</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">serkku</t><t pos="N">enon lapsi</t></tg></mg></e>
+<e><lg><l pos="N">ina-adeer</l><stg><st Contlex="N_">ina-adeer</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">serkku</t><t pos="N">sedän lapsi</t></tg></mg></e>
+<e><lg><l pos="N">ina-eeddo</l><stg><st Contlex="N_">ina-eeddo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">serkku</t><t pos="N">tädin lapsi</t></tg></mg></e>
+<e><lg><l pos="N">inahabreed</l><stg><st Contlex="N_">inahabreed</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">serkku</t><t pos="N">tädin lapsi</t></tg></mg></e>
+<e><lg><l pos="N">indho</l><stg><st Contlex="N_">indho</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">silmät</t></tg></mg></e>
+<e><lg><l pos="N">indhoole</l><stg><st Contlex="N_">indhoole</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sokea</t></tg></mg></e>
+<e><lg><l pos="N">injir</l><stg><st Contlex="N_">injir</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">täi</t></tg></mg></e>
+<e><lg><l pos="N">isbitaal</l><stg><st Contlex="N_">isbitaal</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sairaala</t></tg></mg></e>
+<e><lg><l pos="N">iskuul</l><stg><st Contlex="N_">iskuul</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">koulu</t></tg></mg></e>
+<e><lg><l pos="N">Islaam</l><stg><st Contlex="N_">Islaam</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">islam</t></tg></mg></e>
+<e><lg><l pos="N">Isniin</l><stg><st Contlex="N_">Isniin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">maanantai</t></tg></mg></e>
+<e><lg><l pos="N">isrogrog</l><stg><st Contlex="N_">isrogrog</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">taivutus</t><t pos="N">konjugaatio (kielioppi)</t></tg></mg></e>
+<e><lg><l pos="N">jaad</l><stg><st Contlex="N_">jaad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tyyppi</t><t pos="N">laji</t></tg></mg></e>
+<e><lg><l pos="N">jaad</l><stg><st Contlex="N_">jaad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">khat</t><t pos="N">kati</t></tg></mg></e>
+<e><lg><l pos="N">jaakad</l><stg><st Contlex="N_">jaakad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">takki</t></tg></mg></e>
+<e><lg><l pos="N">jaalle</l><stg><st Contlex="N_">jaalle</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">keltainen</t></tg></mg></e>
+<e><lg><l pos="N">jaamacad</l><stg><st Contlex="N_">jaamacad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">yliopisto</t><t pos="N">korkeakoulu</t></tg></mg></e>
+<e><lg><l pos="N">jaamici</l><stg><st Contlex="N_">jaamici</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">yliopistosta valmistunut</t><t pos="N">ylioppilas</t></tg></mg></e>
+<e><lg><l pos="N">jabto</l><stg><st Contlex="N_">jabto</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tippuri</t></tg></mg></e>
+<e><lg><l pos="N">jadeeco</l><stg><st Contlex="N_">jadeeco</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tuhkarokko</t></tg></mg></e>
+<e><lg><l pos="N">jallaato</l><stg><st Contlex="N_">jallaato</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">jäätelö</t></tg></mg></e>
+<e><lg><l pos="N">jamhuuri</l><stg><st Contlex="N_">jamhuuri</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tasavaltalainen</t><t pos="N">republikaani</t></tg></mg></e>
+<e><lg><l pos="N">jamhuuriyad</l><stg><st Contlex="N_">jamhuuriyad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tasavalta</t></tg></mg></e>
+<e><lg><l pos="N">Jannaayo</l><stg><st Contlex="N_">Jannaayo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tammikuu</t></tg></mg></e>
+<e><lg><l pos="N">janno</l><stg><st Contlex="N_">janno</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">paratiisi</t></tg></mg></e>
+<e><lg><l pos="N">jeer</l><stg><st Contlex="N_">jeer</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">virtahepo</t></tg></mg></e>
+<e><lg><l pos="N">jeeso</l><stg><st Contlex="N_">jeeso</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">liitu</t></tg></mg></e>
+<e><lg><l pos="N">Jiilaal</l><stg><st Contlex="N_">Jiilaal</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">talvi</t></tg></mg></e>
+<e><lg><l pos="N">jiinis (surwaal)</l><stg><st Contlex="N_">jiinis (surwaal)</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">farkut</t></tg></mg></e>
+<e><lg><l pos="N">jiinyeer</l><stg><st Contlex="N_">jiinyeer</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">vetoketju</t></tg></mg></e>
+<e><lg><l pos="N">jiir</l><stg><st Contlex="N_">jiir</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">rotta</t><t pos="N">hiiri</t></tg></mg></e>
+<e><lg><l pos="N">jilaa</l><stg><st Contlex="N_">jilaa</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">näyttelijä</t></tg></mg></e>
+<e><lg><l pos="N">jildi</l><stg><st Contlex="N_">jildi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kansi</t></tg></mg></e>
+<e><lg><l pos="N">jilib</l><stg><st Contlex="N_">jilib</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">polvi</t></tg></mg></e>
+<e><lg><l pos="N">Jimco</l><stg><st Contlex="N_">Jimco</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">perjantai</t></tg></mg></e>
+<e><lg><l pos="N">jir</l><stg><st Contlex="N_">jir</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">vartalo</t><t pos="N">keho</t></tg></mg></e>
+<e><lg><l pos="N">jirjirroole</l><stg><st Contlex="N_">jirjirroole</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kameleontti</t></tg></mg></e>
+<e><lg><l pos="N">jirrid</l><stg><st Contlex="N_">jirrid</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">runko</t></tg></mg></e>
+<e><lg><l pos="N">joodari</l><stg><st Contlex="N_">joodari</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">patja</t></tg></mg></e>
+<e><lg><l pos="N">juqraafi</l><stg><st Contlex="N_">juqraafi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">maantieto</t><t pos="N">maantiede</t></tg></mg></e>
+<e><lg><l pos="N">Juun</l><stg><st Contlex="N_">Juun</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kesäkuu</t></tg></mg></e>
+<e><lg><l pos="N">kaadi</l><stg><st Contlex="N_">kaadi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">virtsa</t></tg></mg></e>
+<e><lg><l pos="N">kaadidhiig</l><stg><st Contlex="N_">kaadidhiig</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">verivirtsaisuus</t><t pos="N">hematuria</t></tg></mg></e>
+<e><lg><l pos="N">kaadihays</l><stg><st Contlex="N_">kaadihays</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">virtsarakko</t></tg></mg></e>
+<e><lg><l pos="N">kaadisokorow</l><stg><st Contlex="N_">kaadisokorow</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sokeritauti</t><t pos="N">diabetes</t></tg></mg></e>
+<e><lg><l pos="N">kabaabyo</l><stg><st Contlex="N_">kabaabyo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">puutuminen</t><t pos="N">puudutusaine</t></tg></mg></e>
+<e><lg><l pos="N">kal</l><stg><st Contlex="N_">kal</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">survin</t></tg></mg></e>
+<e><lg><l pos="N">kalaggoys</l><stg><st Contlex="N_">kalaggoys</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">risteys</t><t pos="N">nivel</t></tg></mg></e>
+<e><lg><l pos="N">kalkaaliso</l><stg><st Contlex="N_">kalkaaliso</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sairaanhoitaja</t></tg></mg></e>
+<e><lg><l pos="N">kalluun</l><stg><st Contlex="N_">kalluun</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kala</t></tg></mg></e>
+<e><lg><l pos="N">kalxan</l><stg><st Contlex="N_">kalxan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">solisluu</t></tg></mg></e>
+<e><lg><l pos="N">kama dambeys</l><stg><st Contlex="N_">kama dambeys</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">viimeinen</t><t pos="N">loppuottelu</t></tg></mg></e>
+<e><lg><l pos="N">kaman</l><stg><st Contlex="N_">kaman</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kitara</t></tg></mg></e>
+<e><lg><l pos="N">kamma’</l><stg><st Contlex="N_">kamma’</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">virhe</t><t pos="N">kömmähdys</t><t pos="N">tahaton</t></tg></mg></e>
+<e><lg><l pos="N">kamsaro caleen</l><stg><st Contlex="N_">kamsaro caleen</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">persilja</t></tg></mg></e>
+<e><lg><l pos="N">kamuun</l><stg><st Contlex="N_">kamuun</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kumina</t></tg></mg></e>
+<e><lg><l pos="N">kaneeco</l><stg><st Contlex="N_">kaneeco</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">hyttynen</t></tg></mg></e>
+<e><lg><l pos="N">kaniisad</l><stg><st Contlex="N_">kaniisad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kirkko</t></tg></mg></e>
+<e><lg><l pos="N">kansi</l><stg><st Contlex="N_">kansi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">aarre</t></tg></mg></e>
+<e><lg><l pos="N">kastuumo</l><stg><st Contlex="N_">kastuumo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">alushousut</t></tg></mg></e>
+<e><lg><l pos="N">katiifad</l><stg><st Contlex="N_">katiifad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">matto</t></tg></mg></e>
+<e><lg><l pos="N">keli</l><stg><st Contlex="N_">keli</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">yksikkö (kielioppi)</t></tg></mg></e>
+<e><lg><l pos="N">kelli</l><stg><st Contlex="N_">kelli</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">munuainen</t></tg></mg></e>
+<e><lg><l pos="N">Khamiis</l><stg><st Contlex="N_">Khamiis</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">torstai</t></tg></mg></e>
+<e><lg><l pos="N">khamri fudud</l><stg><st Contlex="N_">khamri fudud</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">olut</t></tg></mg></e>
+<e><lg><l pos="N">khamro</l><stg><st Contlex="N_">khamro</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">alkoholijuoma</t><t pos="N">viina</t></tg></mg></e>
+<e><lg><l pos="N">khaniis</l><stg><st Contlex="N_">khaniis</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">homo</t><t pos="N">homoseksuaali</t></tg></mg></e>
+<e><lg><l pos="N">khaniisad</l><stg><st Contlex="N_">khaniisad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lesbo</t></tg></mg></e>
+<e><lg><l pos="N">kilkilo</l><stg><st Contlex="N_">kilkilo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kainalo</t></tg></mg></e>
+<e><lg><l pos="N">kimisteri</l><stg><st Contlex="N_">kimisteri</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kemia</t></tg></mg></e>
+<e><lg><l pos="N">kintir</l><stg><st Contlex="N_">kintir</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">häpykieli</t><t pos="N">klitoris</t></tg></mg></e>
+<e><lg><l pos="N">kix</l><stg><st Contlex="N_">kix</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">hinkuyskä</t></tg></mg></e>
+<e><lg><l pos="N">kombiyuutar</l><stg><st Contlex="N_">kombiyuutar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tietokone</t></tg></mg></e>
+<e><lg><l pos="N">koollo</l><stg><st Contlex="N_">koollo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">liima</t></tg></mg></e>
+<e><lg><l pos="N">koonfur</l><stg><st Contlex="N_">koonfur</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">etelä</t></tg></mg></e>
+<e><lg><l pos="N">koonfur galbeed</l><stg><st Contlex="N_">koonfur galbeed</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lounas</t></tg></mg></e>
+<e><lg><l pos="N">koonfur bari</l><stg><st Contlex="N_">koonfur bari</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kaakko</t></tg></mg></e>
+<e><lg><l pos="N">kub</l><stg><st Contlex="N_">kub</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">pohje</t></tg></mg></e>
+<e><lg><l pos="N">kubbad</l><stg><st Contlex="N_">kubbad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">pallo</t></tg></mg></e>
+<e><lg><l pos="N">kubbadda cagta</l><stg><st Contlex="N_">kubbadda cagta</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">jalkapallo</t></tg></mg></e>
+<e><lg><l pos="N">kubbadda gacanta</l><stg><st Contlex="N_">kubbadda gacanta</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lentopallo</t></tg></mg></e>
+<e><lg><l pos="N">kubbadda koleyga</l><stg><st Contlex="N_">kubbadda koleyga</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">koripallo</t></tg></mg></e>
+<e><lg><l pos="N">kulliyad</l><stg><st Contlex="N_">kulliyad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tiedekunta</t></tg></mg></e>
+<e><lg><l pos="N">kursi</l><stg><st Contlex="N_">kursi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tuoli</t></tg></mg></e>
+<e><lg><l pos="N">kuuley-cali-banjar</l><stg><st Contlex="N_">kuuley-cali-banjar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">siili</t></tg></mg></e>
+<e><lg><l pos="N">laabjeex</l><stg><st Contlex="N_">laabjeex</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">närästys</t></tg></mg></e>
+<e><lg><l pos="N">laad</l><stg><st Contlex="N_">laad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">potku</t></tg></mg></e>
+<e><lg><l pos="N">lab</l><stg><st Contlex="N_">lab</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">maskuliini (kielioppi)</t></tg></mg></e>
+<e><lg><l pos="N">laba alifle</l><stg><st Contlex="N_">laba alifle</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">alikersantti</t></tg></mg></e>
+<e><lg><l pos="N">laba dhibcood</l><stg><st Contlex="N_">laba dhibcood</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kaksoispiste {välimerkki}</t></tg></mg></e>
+<e><lg><l pos="N">labballabbo</l><stg><st Contlex="N_">labballabbo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">pahoinvointi</t><t pos="N">kuvotus</t></tg></mg></e>
+<e><lg><l pos="N">lacag</l><stg><st Contlex="N_">lacag</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">raha</t></tg></mg></e>
+<e><lg><l pos="N">laf</l><stg><st Contlex="N_">laf</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">luu</t></tg></mg></e>
+<e><lg><l pos="N">lafale</l><stg><st Contlex="N_">lafale</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">objekti {kielioppi}</t></tg></mg></e>
+<e><lg><l pos="N">lahaansho</l><stg><st Contlex="N_">lahaansho</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">genetiivi (kielioppi)</t></tg></mg></e>
+<e><lg><l pos="N">lama degaan</l><stg><st Contlex="N_">lama degaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">aavikko</t><t pos="N">autiomaa</t></tg></mg></e>
+<e><lg><l pos="N">lamafilaan</l><stg><st Contlex="N_">lamafilaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">yllätys</t></tg></mg></e>
+<e><lg><l pos="N">lammaan</l><stg><st Contlex="N_">lammaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">pari</t></tg></mg></e>
+<e><lg><l pos="N">libaax</l><stg><st Contlex="N_">libaax</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">leijona</t></tg></mg></e>
+<e><lg><l pos="N">libaax-badeed</l><stg><st Contlex="N_">libaax-badeed</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">hai</t></tg></mg></e>
+<e><lg><l pos="N">liin</l><stg><st Contlex="N_">liin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">appelsiini</t></tg></mg></e>
+<e><lg><l pos="N">liin dhanaan</l><stg><st Contlex="N_">liin dhanaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sitruuna</t></tg></mg></e>
+<e><lg><l pos="N">lug</l><stg><st Contlex="N_">lug</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">jalka</t></tg></mg></e>
+<e><lg><l pos="N">Luulyo</l><stg><st Contlex="N_">Luulyo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">heinäkuu</t></tg></mg></e>
+<e><lg><l pos="N">maahmaah</l><stg><st Contlex="N_">maahmaah</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sananlasku</t><t pos="N">sanonta</t><t pos="N">sananparsi</t></tg></mg></e>
+<e><lg><l pos="N">Maajo</l><stg><st Contlex="N_">Maajo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">toukokuu</t></tg></mg></e>
+<e><lg><l pos="N">maalin</l><stg><st Contlex="N_">maalin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">päivä</t></tg></mg></e>
+<e><lg><l pos="N">maamule dugsi</l><stg><st Contlex="N_">maamule dugsi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">rehtori</t></tg></mg></e>
+<e><lg><l pos="N">Maarso</l><stg><st Contlex="N_">Maarso</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">maaliskuu</t></tg></mg></e>
+<e><lg><l pos="N">madaxkuti</l><stg><st Contlex="N_">madaxkuti</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">karhu</t></tg></mg></e>
+<e><lg><l pos="N">macalgad</l><stg><st Contlex="N_">macalgad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lusikka</t></tg></mg></e>
+<e><lg><l pos="N">macallin</l><stg><st Contlex="N_">macallin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">opettaja</t><t pos="N">kouluttaja</t><t pos="N">ohjaaja</t><t pos="N">professori</t></tg></mg></e>
+<e><lg><l pos="N">macallinnimo</l><stg><st Contlex="N_">macallinnimo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">opettajuus</t></tg></mg></e>
+<e><lg><l pos="N">machad</l><stg><st Contlex="N_">machad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">oppilaitos</t><t pos="N">opisto</t><t pos="N">ammattikorkeakoulu</t></tg></mg></e>
+<e><lg><l pos="N">macluumaad</l><stg><st Contlex="N_">macluumaad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tieto</t><t pos="N">tiedot</t></tg></mg></e>
+<e><lg><l pos="N">madax</l><stg><st Contlex="N_">madax</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">pää</t><t pos="N">päällikkö</t><t pos="N">pomo</t></tg></mg></e>
+<e><lg><l pos="N">madax-xanuun</l><stg><st Contlex="N_">madax-xanuun</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">päänsärky</t></tg></mg></e>
+<e><lg><l pos="N">madaxweyne</l><stg><st Contlex="N_">madaxweyne</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">presidentti</t></tg></mg></e>
+<e><lg><l pos="N">madbacad</l><stg><st Contlex="N_">madbacad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kirjapaino</t></tg></mg></e>
+<e><lg><l pos="N">madow</l><stg><st Contlex="N_">madow</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">musta väri</t><t pos="N">mustaihoinen</t></tg></mg></e>
+<e><lg><l pos="N">magaalammadax</l><stg><st Contlex="N_">magaalammadax</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">pääkaupunki</t></tg></mg></e>
+<e><lg><l pos="N">magaalo</l><stg><st Contlex="N_">magaalo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kaupunki</t></tg></mg></e>
+<e><lg><l pos="N">magac</l><stg><st Contlex="N_">magac</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">nimi</t><t pos="N">substantiivi {kielioppi}</t></tg></mg></e>
+<e><lg><l pos="N">magacuyaal</l><stg><st Contlex="N_">magacuyaal</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">pronomini</t></tg></mg></e>
+<e><lg><l pos="N">makiinad</l><stg><st Contlex="N_">makiinad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kone</t></tg></mg></e>
+<e><lg><l pos="N">makiinadda farta</l><stg><st Contlex="N_">makiinadda farta</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kirjoituskone</t></tg></mg></e>
+<e><lg><l pos="N">makiinadda masawirka</l><stg><st Contlex="N_">makiinadda masawirka</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kopiokone</t><t pos="N">kamera</t></tg></mg></e>
+<e><lg><l pos="N">makiinadqore</l><stg><st Contlex="N_">makiinadqore</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">konekirjoittaja</t></tg></mg></e>
+<e><lg><l pos="N">malaa’ig</l><stg><st Contlex="N_">malaa’ig</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">enkeli</t><t pos="N">enkelit</t></tg></mg></e>
+<e><lg><l pos="N">malab</l><stg><st Contlex="N_">malab</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">hunaja</t></tg></mg></e>
+<e><lg><l pos="N">malawad</l><stg><st Contlex="N_">malawad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">peräsuoli</t></tg></mg></e>
+<e><lg><l pos="N">mallaay</l><stg><st Contlex="N_">mallaay</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kala</t></tg></mg></e>
+<e><lg><l pos="N">malmalaaddo</l><stg><st Contlex="N_">malmalaaddo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">marmeladi</t><t pos="N">marmelaati</t><t pos="N">hillo</t></tg></mg></e>
+<e><lg><l pos="N">mandheer</l><stg><st Contlex="N_">mandheer</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">istukka</t></tg></mg></e>
+<e><lg><l pos="N">maqaar</l><stg><st Contlex="N_">maqaar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">iho</t><t pos="N">nahka</t></tg></mg></e>
+<e><lg><l pos="N">maqaayad</l><stg><st Contlex="N_">maqaayad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">ravintola</t></tg></mg></e>
+<e><lg><l pos="N">maqal</l><stg><st Contlex="N_">maqal</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kuulo</t><t pos="N">kassa</t></tg></mg></e>
+<e><lg><l pos="N">maqas</l><stg><st Contlex="N_">maqas</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sakset</t></tg></mg></e>
+<e><lg><l pos="N">mareen</l><stg><st Contlex="N_">mareen</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">reitti</t><t pos="N">kulku</t></tg></mg></e>
+<e><lg><l pos="N">markab</l><stg><st Contlex="N_">markab</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">laiva</t><t pos="N">alus</t></tg></mg></e>
+<e><lg><l pos="N">markhaati</l><stg><st Contlex="N_">markhaati</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">todistaja</t><t pos="N">silminnäkijä</t></tg></mg></e>
+<e><lg><l pos="N">maroodi</l><stg><st Contlex="N_">maroodi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">norsu</t><t pos="N">elefantti</t></tg></mg></e>
+<e><lg><l pos="N">mas</l><stg><st Contlex="N_">mas</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">käärme</t></tg></mg></e>
+<e><lg><l pos="N">Masiixi</l><stg><st Contlex="N_">Masiixi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kristitty</t></tg></mg></e>
+<e><lg><l pos="N">Masiixinnimo</l><stg><st Contlex="N_">Masiixinnimo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kristinusko</t></tg></mg></e>
+<e><lg><l pos="N">masjid</l><stg><st Contlex="N_">masjid</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">moskeija</t></tg></mg></e>
+<e><lg><l pos="N">maskax</l><stg><st Contlex="N_">maskax</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">aivot</t></tg></mg></e>
+<e><lg><l pos="N">mataano</l><stg><st Contlex="N_">mataano</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kaksoset</t></tg></mg></e>
+<e><lg><l pos="N">matag</l><stg><st Contlex="N_">matag</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">oksennus</t></tg></mg></e>
+<e><lg><l pos="N">mawduuc</l><stg><st Contlex="N_">mawduuc</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">aihe</t><t pos="N">teema</t></tg></mg></e>
+<e><lg><l pos="N">mawjad</l><stg><st Contlex="N_">mawjad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">aalto</t></tg></mg></e>
+<e><lg><l pos="N">maxkamad</l><stg><st Contlex="N_">maxkamad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tuomioistuin</t><t pos="N">oikeustalo</t></tg></mg></e>
+<e><lg><l pos="N">maxkamadda degmada</l><stg><st Contlex="N_">maxkamadda degmada</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">käräjäoikeus</t></tg></mg></e>
+<e><lg><l pos="N">maxkamadda rafcaanka</l><stg><st Contlex="N_">maxkamadda rafcaanka</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">hovioikeus</t></tg></mg></e>
+<e><lg><l pos="N">maxkamadda sare</l><stg><st Contlex="N_">maxkamadda sare</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">korkein oikeus</t></tg></mg></e>
+<e><lg><l pos="N">meeleeye</l><stg><st Contlex="N_">meeleeye</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">prepositio {kielioppi}</t></tg></mg></e>
+<e><lg><l pos="N">meseggo</l><stg><st Contlex="N_">meseggo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">hirssi</t></tg></mg></e>
+<e><lg><l pos="N">midab</l><stg><st Contlex="N_">midab</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">väri</t><t pos="N">ihonväri</t></tg></mg></e>
+<e><lg><l pos="N">midabkalasooc</l><stg><st Contlex="N_">midabkalasooc</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">rotuerottelu</t></tg></mg></e>
+<e><lg><l pos="N">midabtakoor</l><stg><st Contlex="N_">midabtakoor</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">rotusyrjintä</t><t pos="N">rasismi</t></tg></mg></e>
+<e><lg><l pos="N">midig</l><stg><st Contlex="N_">midig</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">oikea</t></tg></mg></e>
+<e><lg><l pos="N">miis</l><stg><st Contlex="N_">miis</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">pöytä</t></tg></mg></e>
+<e><lg><l pos="N">mindhicir</l><stg><st Contlex="N_">mindhicir</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">suoli</t></tg></mg></e>
+<e><lg><l pos="N">mindi</l><stg><st Contlex="N_">mindi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">veitsi</t></tg></mg></e>
+<e><lg><l pos="N">miro guduudan oo macaan</l><stg><st Contlex="N_">miro guduudan oo macaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">mansikka</t></tg></mg></e>
+<e><lg><l pos="N">miro kakaawa oo la shiiday</l><stg><st Contlex="N_">miro kakaawa oo la shiiday</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kaakao</t></tg></mg></e>
+<e><lg><l pos="N">mishaari</l><stg><st Contlex="N_">mishaari</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">puuro</t></tg></mg></e>
+<e><lg><l pos="N">misig</l><stg><st Contlex="N_">misig</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lonkka</t><t pos="N">lanne</t></tg></mg></e>
+<e><lg><l pos="N">mitir</l><stg><st Contlex="N_">mitir</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">metri</t></tg></mg></e>
+<e><lg><l pos="N">moos</l><stg><st Contlex="N_">moos</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">banaani</t></tg></mg></e>
+<e><lg><l pos="N">mooto</l><stg><st Contlex="N_">mooto</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">moottoripyörä</t></tg></mg></e>
+<e><lg><l pos="N">mooye</l><stg><st Contlex="N_">mooye</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">huhmare</t></tg></mg></e>
+<e><lg><l pos="N">mukulaal</l><stg><st Contlex="N_">mukulaal</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kissa</t></tg></mg></e>
+<e><lg><l pos="N">muraayad</l><stg><st Contlex="N_">muraayad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">peili</t><t pos="N">lasi</t><t pos="N">silmälasit</t></tg></mg></e>
+<e><lg><l pos="N">murgucasho</l><stg><st Contlex="N_">murgucasho</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">nyrjähdys</t></tg></mg></e>
+<e><lg><l pos="N">murufsato</l><stg><st Contlex="N_">murufsato</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">etusormi</t></tg></mg></e>
+<e><lg><l pos="N">murugo</l><stg><st Contlex="N_">murugo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">suru</t></tg></mg></e>
+<e><lg><l pos="N">muruq</l><stg><st Contlex="N_">muruq</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lihas</t></tg></mg></e>
+<e><lg><l pos="N">muruqa cududda</l><stg><st Contlex="N_">muruqa cududda</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">hauislihas</t></tg></mg></e>
+<e><lg><l pos="N">musbaar</l><stg><st Contlex="N_">musbaar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">naula</t></tg></mg></e>
+<e><lg><l pos="N">mushaar</l><stg><st Contlex="N_">mushaar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">palkka</t></tg></mg></e>
+<e><lg><l pos="N">mushaar duuban</l><stg><st Contlex="N_">mushaar duuban</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">bruttopalkka</t></tg></mg></e>
+<e><lg><l pos="N">mushaar hawlgab</l><stg><st Contlex="N_">mushaar hawlgab</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">eläke</t></tg></mg></e>
+<e><lg><l pos="N">mushaar saafi ah</l><stg><st Contlex="N_">mushaar saafi ah</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">nettopalkka</t></tg></mg></e>
+<e><lg><l pos="N">Muslin</l><stg><st Contlex="N_">Muslin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">Muslimi</t></tg></mg></e>
+<e><lg><l pos="N">musqul</l><stg><st Contlex="N_">musqul</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">käymälä</t><t pos="N">vessa</t><t pos="N">WC</t></tg></mg></e>
+<e><lg><l pos="N">muusika</l><stg><st Contlex="N_">muusika</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">musiikki</t></tg></mg></e>
+<e><lg><l pos="N">naafo</l><stg><st Contlex="N_">naafo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">vammaisuus</t><t pos="N">vammainen</t><t pos="N">invalidi</t></tg></mg></e>
+<e><lg><l pos="N">naafto</l><stg><st Contlex="N_">naafto</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">dieselöljy</t></tg></mg></e>
+<e><lg><l pos="N">naag</l><stg><st Contlex="N_">naag</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">nainen</t><t pos="N">vaimo</t></tg></mg></e>
+<e><lg><l pos="N">naanays</l><stg><st Contlex="N_">naanays</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lempinimi</t></tg></mg></e>
+<e><lg><l pos="N">naar</l><stg><st Contlex="N_">naar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">helvetti</t></tg></mg></e>
+<e><lg><l pos="N">naas</l><stg><st Contlex="N_">naas</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">rinta</t></tg></mg></e>
+<e><lg><l pos="N">naasacelis</l><stg><st Contlex="N_">naasacelis</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">rintaliivit</t></tg></mg></e>
+<e><lg><l pos="N">naasaley</l><stg><st Contlex="N_">naasaley</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">nisäkäs ~ nisäkkäät</t></tg></mg></e>
+<e><lg><l pos="N">naastro</l><stg><st Contlex="N_">naastro</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">nauhuri</t></tg></mg></e>
+<e><lg><l pos="N">nacnac</l><stg><st Contlex="N_">nacnac</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">makeiset</t><t pos="N">karamelli</t><t pos="N">karkki</t></tg></mg></e>
+<e><lg><l pos="N">nal</l><stg><st Contlex="N_">nal</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lamppu</t><t pos="N">hehkulamppu</t><t pos="N">sähkövalo</t></tg></mg></e>
+<e><lg><l pos="N">Nasaaro</l><stg><st Contlex="N_">Nasaaro</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kristityt</t></tg></mg></e>
+<e><lg><l pos="N">nasabnimo</l><stg><st Contlex="N_">nasabnimo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">aatelisto</t><t pos="N">aateluus</t></tg></mg></e>
+<e><lg><l pos="N">naxwe</l><stg><st Contlex="N_">naxwe</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kielioppi</t></tg></mg></e>
+<e><lg><l pos="N">nayl</l><stg><st Contlex="N_">nayl</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">karitsa</t></tg></mg></e>
+<e><lg><l pos="N">nebi</l><stg><st Contlex="N_">nebi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">profeetta</t></tg></mg></e>
+<e><lg><l pos="N">neef</l><stg><st Contlex="N_">neef</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">hengitys</t><t pos="N">astma</t><t pos="N">kaasu {kemia}</t></tg></mg></e>
+<e><lg><l pos="N">nibiri</l><stg><st Contlex="N_">nibiri</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">valas</t></tg></mg></e>
+<e><lg><l pos="N">nin</l><stg><st Contlex="N_">nin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">mies</t><t pos="N">aviomies</t><t pos="N">puoliso</t></tg></mg></e>
+<e><lg><l pos="N">Noofembar</l><stg><st Contlex="N_">Noofembar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">marraskuu</t></tg></mg></e>
+<e><lg><l pos="N">oday</l><stg><st Contlex="N_">oday</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">ukko</t><t pos="N">vanhempi henkilö</t></tg></mg></e>
+<e><lg><l pos="N">Oktoobar</l><stg><st Contlex="N_">Oktoobar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lokakuu</t></tg></mg></e>
+<e><lg><l pos="N">orgi</l><stg><st Contlex="N_">orgi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">pukki</t></tg></mg></e>
+<e><lg><l pos="N">qaaddo</l><stg><st Contlex="N_">qaaddo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lusikka</t></tg></mg></e>
+<e><lg><l pos="N">qaajeer</l><stg><st Contlex="N_">qaajeer</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kuiva hiki iholla</t></tg></mg></e>
+<e><lg><l pos="N">qaamoqashiir</l><stg><st Contlex="N_">qaamoqashiir</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sikotauti</t></tg></mg></e>
+<e><lg><l pos="N">qaamuus</l><stg><st Contlex="N_">qaamuus</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sanakirja</t></tg></mg></e>
+<e><lg><l pos="N">qaangaar</l><stg><st Contlex="N_">qaangaar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">aikuinen</t><t pos="N">aikaihminen</t></tg></mg></e>
+<e><lg><l pos="N">qaansaley</l><stg><st Contlex="N_">qaansaley</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">jousimiehet</t></tg></mg></e>
+<e><lg><l pos="N">qaansheeg</l><stg><st Contlex="N_">qaansheeg</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kauppalasku</t></tg></mg></e>
+<e><lg><l pos="N">qaansheegte</l><stg><st Contlex="N_">qaansheegte</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">velkoja</t><t pos="N">luotonantaja</t><t pos="N">lainanantaja</t></tg></mg></e>
+<e><lg><l pos="N">qaanso</l><stg><st Contlex="N_">qaanso</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">jousi </t><t pos="N">sulje</t><t pos="N">sulkumerkit</t></tg></mg></e>
+<e><lg><l pos="N">qaanso-roobaad</l><stg><st Contlex="N_">qaanso-roobaad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sateenkaari</t></tg></mg></e>
+<e><lg><l pos="N">qaanuun</l><stg><st Contlex="N_">qaanuun</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sääntö</t><t pos="N">laki</t><t pos="N">määräys</t><t pos="N">asetus</t><t pos="N">perustuslaki</t></tg></mg></e>
+<e><lg><l pos="N">qaaxo</l><stg><st Contlex="N_">qaaxo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tuberkuloosi</t></tg></mg></e>
+<e><lg><l pos="N">qabiil</l><stg><st Contlex="N_">qabiil</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">heimo</t><t pos="N">klaani</t></tg></mg></e>
+<e><lg><l pos="N">qabsin</l><stg><st Contlex="N_">qabsin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">umpilisäke</t><t pos="N">umpilisäkkeen tulehdus</t></tg></mg></e>
+<e><lg><l pos="N">qado</l><stg><st Contlex="N_">qado</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lounas</t></tg></mg></e>
+<e><lg><l pos="N">qajaar</l><stg><st Contlex="N_">qajaar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kurkku</t></tg></mg></e>
+<e><lg><l pos="N">qalab akhriya cajaladaha wareegsan</l><stg><st Contlex="N_">qalab akhriya cajaladaha wareegsan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">cd-soitin</t></tg></mg></e>
+<e><lg><l pos="N">qalin</l><stg><st Contlex="N_">qalin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">hopea</t><t pos="N">kynä</t></tg></mg></e>
+<e><lg><l pos="N">qalin rasaas</l><stg><st Contlex="N_">qalin rasaas</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lyijykynä</t></tg></mg></e>
+<e><lg><l pos="N">qallal</l><stg><st Contlex="N_">qallal</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">epilepsia</t></tg></mg></e>
+<e><lg><l pos="N">qamadi</l><stg><st Contlex="N_">qamadi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">vehnä</t></tg></mg></e>
+<e><lg><l pos="N">qandhicil</l><stg><st Contlex="N_">qandhicil</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">saivar</t><t pos="N">täin muna</t></tg></mg></e>
+<e><lg><l pos="N">qandho</l><stg><st Contlex="N_">qandho</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kuume</t></tg></mg></e>
+<e><lg><l pos="N">qaraabo</l><stg><st Contlex="N_">qaraabo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sukulaiset</t><t pos="N">suku</t></tg></mg></e>
+<e><lg><l pos="N">qare</l><stg><st Contlex="N_">qare</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">vesimeloni</t></tg></mg></e>
+<e><lg><l pos="N">qawad</l><stg><st Contlex="N_">qawad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">ihosairaus aiheuttaa väriltään vaaleampi iho</t></tg></mg></e>
+<e><lg><l pos="N">qaxwe</l><stg><st Contlex="N_">qaxwe</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kahvi</t></tg></mg></e>
+<e><lg><l pos="N">qodob</l><stg><st Contlex="N_">qodob</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">artikkeli {kielioppi}</t></tg></mg></e>
+<e><lg><l pos="N">qof</l><stg><st Contlex="N_">qof</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">henkilö</t></tg></mg></e>
+<e><lg><l pos="N">qofkahadal</l><stg><st Contlex="N_">qofkahadal</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">elämäkerta</t></tg></mg></e>
+<e><lg><l pos="N">qofkawarran</l><stg><st Contlex="N_">qofkawarran</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">ansioluettelo</t></tg></mg></e>
+<e><lg><l pos="N">qoolley</l><stg><st Contlex="N_">qoolley</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kyyhky</t></tg></mg></e>
+<e><lg><l pos="N">qoor</l><stg><st Contlex="N_">qoor</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kaula</t></tg></mg></e>
+<e><lg><l pos="N">qoraa</l><stg><st Contlex="N_">qoraa</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kirjailija</t><t pos="N">kirjoittaja</t></tg></mg></e>
+<e><lg><l pos="N">qore</l><stg><st Contlex="N_">qore</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kirjoittaja</t><t pos="N">kirjailija</t></tg></mg></e>
+<e><lg><l pos="N">qorfe</l><stg><st Contlex="N_">qorfe</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kaneli</t></tg></mg></e>
+<e><lg><l pos="N">qori</l><stg><st Contlex="N_">qori</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kivääri</t></tg></mg></e>
+<e><lg><l pos="N">qorrax</l><stg><st Contlex="N_">qorrax</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">aurinko</t></tg></mg></e>
+<e><lg><l pos="N">qorraxdhac</l><stg><st Contlex="N_">qorraxdhac</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">auringonlasku</t></tg></mg></e>
+<e><lg><l pos="N">qorrax-madoobaad</l><stg><st Contlex="N_">qorrax-madoobaad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">auringonpimennys</t></tg></mg></e>
+<e><lg><l pos="N">qosol</l><stg><st Contlex="N_">qosol</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">nauru</t></tg></mg></e>
+<e><lg><l pos="N">qufac</l><stg><st Contlex="N_">qufac</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">yskä</t></tg></mg></e>
+<e><lg><l pos="N">quful</l><stg><st Contlex="N_">quful</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lukko</t></tg></mg></e>
+<e><lg><l pos="N">quraac</l><stg><st Contlex="N_">quraac</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">aamiainen</t></tg></mg></e>
+<e><lg><l pos="N">quraanjo</l><stg><st Contlex="N_">quraanjo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">muurahainen</t></tg></mg></e>
+<e><lg><l pos="N">qurub</l><stg><st Contlex="N_">qurub</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">partikkeli</t><t pos="N">apusana</t></tg></mg></e>
+<e><lg><l pos="N">qurux</l><stg><st Contlex="N_">qurux</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kauneus</t><t pos="N">komeus</t></tg></mg></e>
+<e><lg><l pos="N">raad</l><stg><st Contlex="N_">raad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">jalanjälki</t><t pos="N">jälki</t></tg></mg></e>
+<e><lg><l pos="N">ra’iisal wasaare</l><stg><st Contlex="N_">ra’iisal wasaare</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">pääministeri</t></tg></mg></e>
+<e><lg><l pos="N">Ramadaan</l><stg><st Contlex="N_">Ramadaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">islamilaisten paastokuukausi</t></tg></mg></e>
+<e><lg><l pos="N">reer</l><stg><st Contlex="N_">reer</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">perhe</t></tg></mg></e>
+<e><lg><l pos="N">ri'</l><stg><st Contlex="N_">ri'</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">vuohi</t></tg></mg></e>
+<e><lg><l pos="N">rinji</l><stg><st Contlex="N_">rinji</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">maali</t></tg></mg></e>
+<e><lg><l pos="N">rinjiile</l><stg><st Contlex="N_">rinjiile</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">maalari</t></tg></mg></e>
+<e><lg><l pos="N">riwaayad</l><stg><st Contlex="N_">riwaayad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">näytelmä</t></tg></mg></e>
+<e><lg><l pos="N">ri' yar</l><stg><st Contlex="N_">ri' yar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kili</t><t pos="N">vohla</t></tg></mg></e>
+<e><lg><l pos="N">ceesaan</l><stg><st Contlex="N_">ceesaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kili</t><t pos="N">vohla</t></tg></mg></e>
+<e><lg><l pos="N">roob</l><stg><st Contlex="N_">roob</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sade</t></tg></mg></e>
+<e><lg><l pos="N">rooti</l><stg><st Contlex="N_">rooti</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">leipä</t></tg></mg></e>
+<e><lg><l pos="N">saabuun</l><stg><st Contlex="N_">saabuun</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">saippua</t></tg></mg></e>
+<e><lg><l pos="N">saacad</l><stg><st Contlex="N_">saacad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tunti</t><t pos="N">kello</t></tg></mg></e>
+<e><lg><l pos="N">Sabti</l><stg><st Contlex="N_">Sabti</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lauantai</t></tg></mg></e>
+<e><lg><l pos="N">sabuurad</l><stg><st Contlex="N_">sabuurad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">liitutaulu</t><t pos="N">taulu</t></tg></mg></e>
+<e><lg><l pos="N">sac (neef lo' ah)</l><stg><st Contlex="N_">sac (neef lo' ah)</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lehmä</t></tg></mg></e>
+<e><lg><l pos="N">saddex alifle</l><stg><st Contlex="N_">saddex alifle</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kersantti</t><t pos="N">ylikonstaapeli</t></tg></mg></e>
+<e><lg><l pos="N">saddexagal</l><stg><st Contlex="N_">saddexagal</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kolmio</t><t pos="N">kolmikulmio</t></tg></mg></e>
+<e><lg><l pos="N">safaarad</l><stg><st Contlex="N_">safaarad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">suurlähetystö</t></tg></mg></e>
+<e><lg><l pos="N">safar</l><stg><st Contlex="N_">safar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">matka</t><t pos="N">matkailu</t></tg></mg></e>
+<e><lg><l pos="N">sakiin</l><stg><st Contlex="N_">sakiin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">partaterä</t></tg></mg></e>
+<e><lg><l pos="N">salaad</l><stg><st Contlex="N_">salaad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">rukous</t></tg></mg></e>
+<e><lg><l pos="N">salaan</l><stg><st Contlex="N_">salaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tervehdys</t><t pos="N">terveisin</t><t pos="N">terveiset</t></tg></mg></e>
+<e><lg><l pos="N">saliid</l><stg><st Contlex="N_">saliid</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">öljy</t></tg></mg></e>
+<e><lg><l pos="N">sambab</l><stg><st Contlex="N_">sambab</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">keuhko</t></tg></mg></e>
+<e><lg><l pos="N">samboor</l><stg><st Contlex="N_">samboor</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">nenätulehdus</t></tg></mg></e>
+<e><lg><l pos="N">sambuus</l><stg><st Contlex="N_">sambuus</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">samosa</t></tg></mg></e>
+<e><lg><l pos="N">san</l><stg><st Contlex="N_">san</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">nenä</t></tg></mg></e>
+<e><lg><l pos="N">sanad</l><stg><st Contlex="N_">sanad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">vuosi</t></tg></mg></e>
+<e><lg><l pos="N">sanagguuro</l><stg><st Contlex="N_">sanagguuro</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">vuosipäivä</t></tg></mg></e>
+<e><lg><l pos="N">sanam</l><stg><st Contlex="N_">sanam</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">idoli</t></tg></mg></e>
+<e><lg><l pos="N">saq-dhexe</l><stg><st Contlex="N_">saq-dhexe</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">keskiyö</t></tg></mg></e>
+<e><lg><l pos="N">saqaf</l><stg><st Contlex="N_">saqaf</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">katto</t></tg></mg></e>
+<e><lg><l pos="N">sariir</l><stg><st Contlex="N_">sariir</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sänky</t></tg></mg></e>
+<e><lg><l pos="N">sarreeye gaas</l><stg><st Contlex="N_">sarreeye gaas</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kenraalimajuri</t></tg></mg></e>
+<e><lg><l pos="N">sarreeye guud</l><stg><st Contlex="N_">sarreeye guud</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kenraaliluutnantti</t></tg></mg></e>
+<e><lg><l pos="N">sarreeye guuto</l><stg><st Contlex="N_">sarreeye guuto</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">prikaatinkenraali</t></tg></mg></e>
+<e><lg><l pos="N">sarrif</l><stg><st Contlex="N_">sarrif</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">vaihto</t></tg></mg></e>
+<e><lg><l pos="N">sawir</l><stg><st Contlex="N_">sawir</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kuva</t><t pos="N">valokuva</t></tg></mg></e>
+<e><lg><l pos="N">sawir qofeed</l><stg><st Contlex="N_">sawir qofeed</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">muotokuva</t></tg></mg></e>
+<e><lg><l pos="N">sawir-sure</l><stg><st Contlex="N_">sawir-sure</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">X-koukku</t></tg></mg></e>
+<e><lg><l pos="N">sawir-weyneyn</l><stg><st Contlex="N_">sawir-weyneyn</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">zoomi</t></tg></mg></e>
+<e><lg><l pos="N">saxaafad</l><stg><st Contlex="N_">saxaafad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tiedotusoppi</t><t pos="N">journalismi</t></tg></mg></e>
+<e><lg><l pos="N">saxan</l><stg><st Contlex="N_">saxan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lautanen</t><t pos="N">lautasantenni</t></tg></mg></e>
+<e><lg><l pos="N">saxiix</l><stg><st Contlex="N_">saxiix</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">allekirjoitus</t></tg></mg></e>
+<e><lg><l pos="N">sayn</l><stg><st Contlex="N_">sayn</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">häntä</t></tg></mg></e>
+<e><lg><l pos="N">Sebtembar</l><stg><st Contlex="N_">Sebtembar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">syyskuu</t></tg></mg></e>
+<e><lg><l pos="N">seed</l><stg><st Contlex="N_">seed</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">jänne</t></tg></mg></e>
+<e><lg><l pos="N">seedda ciribta</l><stg><st Contlex="N_">seedda ciribta</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kantajänne</t><t pos="N">akillesjänne</t></tg></mg></e>
+<e><lg><l pos="N">seeddi</l><stg><st Contlex="N_">seeddi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lanko</t></tg></mg></e>
+<e><lg><l pos="N">seko</l><stg><st Contlex="N_">seko</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">almu</t></tg></mg></e>
+<e><lg><l pos="N">seytuun</l><stg><st Contlex="N_">seytuun</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">guava</t></tg></mg></e>
+<e><lg><l pos="N">shaabbad</l><stg><st Contlex="N_">shaabbad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">leima</t></tg></mg></e>
+<e><lg><l pos="N">shaah</l><stg><st Contlex="N_">shaah</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tee</t></tg></mg></e>
+<e><lg><l pos="N">shaambo</l><stg><st Contlex="N_">shaambo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">hiustenpesuaine</t><t pos="N">sampoo</t></tg></mg></e>
+<e><lg><l pos="N">shaarib</l><stg><st Contlex="N_">shaarib</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">viikset</t></tg></mg></e>
+<e><lg><l pos="N">shaati</l><stg><st Contlex="N_">shaati</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">paita</t></tg></mg></e>
+<e><lg><l pos="N">shabakadda macluumaadka</l><stg><st Contlex="N_">shabakadda macluumaadka</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">Internet</t><t pos="N">netti</t></tg></mg></e>
+<e><lg><l pos="N">shabeel</l><stg><st Contlex="N_">shabeel</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tiikeri</t></tg></mg></e>
+<e><lg><l pos="N">shallayto</l><stg><st Contlex="N_">shallayto</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">pahoittelu</t><t pos="N">katumus</t></tg></mg></e>
+<e><lg><l pos="N">shanlo</l><stg><st Contlex="N_">shanlo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kampa</t></tg></mg></e>
+<e><lg><l pos="N">shaqal</l><stg><st Contlex="N_">shaqal</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">vokaali {kielioppi}</t></tg></mg></e>
+<e><lg><l pos="N">shaqalada israaca</l><stg><st Contlex="N_">shaqalada israaca</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">diftongi</t></tg></mg></e>
+<e><lg><l pos="N">sharaab soodhe leh</l><stg><st Contlex="N_">sharaab soodhe leh</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">virvoitusjuoma</t><t pos="N">limsa</t></tg></mg></e>
+<e><lg><l pos="N">sharci</l><stg><st Contlex="N_">sharci</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">laki</t><t pos="N">oleskelulupa</t></tg></mg></e>
+<e><lg><l pos="N">sharmuuto</l><stg><st Contlex="N_">sharmuuto</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">prostituoitu</t><t pos="N">huora</t></tg></mg></e>
+<e><lg><l pos="N">sharooto</l><stg><st Contlex="N_">sharooto</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">laastari</t><t pos="N">teippi</t></tg></mg></e>
+<e><lg><l pos="N">sheeko</l><stg><st Contlex="N_">sheeko</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tarina</t><t pos="N">satu</t><t pos="N">taru</t></tg></mg></e>
+<e><lg><l pos="N">sheyddaan</l><stg><st Contlex="N_">sheyddaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">paholainen</t><t pos="N">perkele</t><t pos="N">Saatana</t></tg></mg></e>
+<e><lg><l pos="N">shibbane</l><stg><st Contlex="N_">shibbane</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">konsonantti {kielioppi}</t></tg></mg></e>
+<e><lg><l pos="N">shidaal</l><stg><st Contlex="N_">shidaal</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">polttoaine</t></tg></mg></e>
+<e><lg><l pos="N">shimbir</l><stg><st Contlex="N_">shimbir</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lintu</t></tg></mg></e>
+<e><lg><l pos="N">shir</l><stg><st Contlex="N_">shir</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kokous</t><t pos="N">konferenssi</t></tg></mg></e>
+<e><lg><l pos="N">shisheeye</l><stg><st Contlex="N_">shisheeye</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">ulkomaalainen</t></tg></mg></e>
+<e><lg><l pos="N">shukulaato</l><stg><st Contlex="N_">shukulaato</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">suklaa</t></tg></mg></e>
+<e><lg><l pos="N">shukumaan</l><stg><st Contlex="N_">shukumaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">pyyhe</t><t pos="N">pyyheliina</t></tg></mg></e>
+<e><lg><l pos="N">shumac</l><stg><st Contlex="N_">shumac</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kynttilä</t></tg></mg></e>
+<e><lg><l pos="N">shuun</l><stg><st Contlex="N_">shuun</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">häpykarvat</t></tg></mg></e>
+<e><lg><l pos="N">sifo</l><stg><st Contlex="N_">sifo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">attributiivi</t></tg></mg></e>
+<e><lg><l pos="N">sigaar</l><stg><st Contlex="N_">sigaar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">savuke</t></tg></mg></e>
+<e><lg><l pos="N">sigaaryacab</l><stg><st Contlex="N_">sigaaryacab</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tupakoitsija</t></tg></mg></e>
+<e><lg><l pos="N">sigis</l><stg><st Contlex="N_">sigis</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sukka</t></tg></mg></e>
+<e><lg><l pos="N">siil</l><stg><st Contlex="N_">siil</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">vagina</t><t pos="N">emätin</t></tg></mg></e>
+<e><lg><l pos="N">sin</l><stg><st Contlex="N_">sin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lanne</t><t pos="N">lonkka</t></tg></mg></e>
+<e><lg><l pos="N">sinjibiil</l><stg><st Contlex="N_">sinjibiil</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">inkivääri</t></tg></mg></e>
+<e><lg><l pos="N">sinnaan</l><stg><st Contlex="N_">sinnaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tasa-arvo</t></tg></mg></e>
+<e><lg><l pos="N">sisin</l><stg><st Contlex="N_">sisin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sesame</t></tg></mg></e>
+<e><lg><l pos="N">siyaasad</l><stg><st Contlex="N_">siyaasad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">politiikka</t></tg></mg></e>
+<e><lg><l pos="N">siyaasi</l><stg><st Contlex="N_">siyaasi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">poliitikko</t></tg></mg></e>
+<e><lg><l pos="N">soddog</l><stg><st Contlex="N_">soddog</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">appi</t></tg></mg></e>
+<e><lg><l pos="N">soddoh</l><stg><st Contlex="N_">soddoh</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">anoppi</t></tg></mg></e>
+<e><lg><l pos="N">sonkor</l><stg><st Contlex="N_">sonkor</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sokeri</t></tg></mg></e>
+<e><lg><l pos="N">sonkorow</l><stg><st Contlex="N_">sonkorow</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sokeritauti</t><t pos="N">diabetes</t></tg></mg></e>
+<e><lg><l pos="N">Soomaali</l><stg><st Contlex="N_">Soomaali</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">somali</t><t pos="N">somalialainen</t></tg></mg></e>
+<e><lg><l pos="N">soon</l><stg><st Contlex="N_">soon</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">paasto</t></tg></mg></e>
+<e><lg><l pos="N">soongur</l><stg><st Contlex="N_">soongur</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">mungo</t></tg></mg></e>
+<e><lg><l pos="N">subag</l><stg><st Contlex="N_">subag</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">voi</t></tg></mg></e>
+<e><lg><l pos="N">subax</l><stg><st Contlex="N_">subax</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">aamu</t></tg></mg></e>
+<e><lg><l pos="N">subaxnimo</l><stg><st Contlex="N_">subaxnimo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">aamulla</t></tg></mg></e>
+<e><lg><l pos="N">sun</l><stg><st Contlex="N_">sun</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">myrkky</t></tg></mg></e>
+<e><lg><l pos="N">surwaal</l><stg><st Contlex="N_">surwaal</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">housut</t></tg></mg></e>
+<e><lg><l pos="N">suul</l><stg><st Contlex="N_">suul</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">peukalo</t><t pos="N">isovarvas</t></tg></mg></e>
+<e><lg><l pos="N">suun</l><stg><st Contlex="N_">suun</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">vyö</t></tg></mg></e>
+<e><lg><l pos="N">suuxin</l><stg><st Contlex="N_">suuxin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">nukutus</t><t pos="N">nukutusaine</t></tg></mg></e>
+<e><lg><l pos="N">suuxiye</l><stg><st Contlex="N_">suuxiye</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">nukutuslääkäri</t><t pos="N">nukutushoitaja</t></tg></mg></e>
+<e><lg><l pos="N">suxul</l><stg><st Contlex="N_">suxul</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kyynärpää</t></tg></mg></e>
+<e><lg><l pos="N">taariikh</l><stg><st Contlex="N_">taariikh</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">päivämäärä</t><t pos="N">historia</t></tg></mg></e>
+<e><lg><l pos="N">taariikhyahan</l><stg><st Contlex="N_">taariikhyahan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">historioitsija</t></tg></mg></e>
+<e><lg><l pos="N">taksi</l><stg><st Contlex="N_">taksi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">taksi</t></tg></mg></e>
+<e><lg><l pos="N">taksiile</l><stg><st Contlex="N_">taksiile</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">taksinkuljettaja</t></tg></mg></e>
+<e><lg><l pos="N">Talaado</l><stg><st Contlex="N_">Talaado</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tiistai</t></tg></mg></e>
+<e><lg><l pos="N">tallaabo</l><stg><st Contlex="N_">tallaabo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">askel</t></tg></mg></e>
+<e><lg><l pos="N">tallaal</l><stg><st Contlex="N_">tallaal</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">rokote</t><t pos="N">rokotus</t></tg></mg></e>
+<e><lg><l pos="N">taraam</l><stg><st Contlex="N_">taraam</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">raitiovaunu</t></tg></mg></e>
+<e><lg><l pos="N">tareen</l><stg><st Contlex="N_">tareen</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">juna</t></tg></mg></e>
+<e><lg><l pos="N">tayo</l><stg><st Contlex="N_">tayo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">laatu</t></tg></mg></e>
+<e><lg><l pos="N">teetane</l><stg><st Contlex="N_">teetane</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">jäykkäkouristus</t><t pos="N">tetanus</t></tg></mg></e>
+<e><lg><l pos="N">telefishen</l><stg><st Contlex="N_">telefishen</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">television</t></tg></mg></e>
+<e><lg><l pos="N">telefoon</l><stg><st Contlex="N_">telefoon</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">puhelin</t></tg></mg></e>
+<e><lg><l pos="N">telefoonka gacanta</l><stg><st Contlex="N_">telefoonka gacanta</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">matkapuhelin</t><t pos="N">kännykkä</t></tg></mg></e>
+<e><lg><l pos="N">tigid</l><stg><st Contlex="N_">tigid</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">lippu</t></tg></mg></e>
+<e><lg><l pos="N">tijaabo</l><stg><st Contlex="N_">tijaabo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">testi</t><t pos="N">kokeilu</t></tg></mg></e>
+<e><lg><l pos="N">tilmaame</l><stg><st Contlex="N_">tilmaame</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">opas</t><t pos="N">adjektiivi {kielioppi}</t></tg></mg></e>
+<e><lg><l pos="N">timir</l><stg><st Contlex="N_">timir</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">taateli</t></tg></mg></e>
+<e><lg><l pos="N">timo</l><stg><st Contlex="N_">timo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">hiukset</t></tg></mg></e>
+<e><lg><l pos="N">tin</l><stg><st Contlex="N_">tin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">hius</t></tg></mg></e>
+<e><lg><l pos="N">tiraale</l><stg><st Contlex="N_">tiraale</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">numeraali</t><t pos="N">lukusana (kielioppi)</t></tg></mg></e>
+<e><lg><l pos="N">tiro</l><stg><st Contlex="N_">tiro</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">numero</t><t pos="N">määrä</t><t pos="N">luku (kielioppi)</t></tg></mg></e>
+<e><lg><l pos="N">tobanle</l><stg><st Contlex="N_">tobanle</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">desimaali</t><t pos="N">kymmenjärjestelmä</t></tg></mg></e>
+<e><lg><l pos="N">tobanle</l><stg><st Contlex="N_">tobanle</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kymppi (korttipeli)</t></tg></mg></e>
+<e><lg><l pos="N">toddobaad</l><stg><st Contlex="N_">toddobaad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">viikko</t></tg></mg></e>
+<e><lg><l pos="N">toon</l><stg><st Contlex="N_">toon</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">valkosipuli</t></tg></mg></e>
+<e><lg><l pos="N">tufaax</l><stg><st Contlex="N_">tufaax</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">omena</t></tg></mg></e>
+<e><lg><l pos="N">tun</l><stg><st Contlex="N_">tun</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">niska</t></tg></mg></e>
+<e><lg><l pos="N">turjubaan</l><stg><st Contlex="N_">turjubaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tulkki</t><t pos="N">kääntäjä</t></tg></mg></e>
+<e><lg><l pos="N">turub</l><stg><st Contlex="N_">turub</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">korttipeli</t></tg></mg></e>
+<e><lg><l pos="N">tusaale</l><stg><st Contlex="N_">tusaale</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">esimerkki</t><t pos="N">esikuva</t><t pos="N">malli</t></tg></mg></e>
+<e><lg><l pos="N">tusmada buugga</l><stg><st Contlex="N_">tusmada buugga</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sisällysluettelo</t></tg></mg></e>
+<e><lg><l pos="N">tusmo</l><stg><st Contlex="N_">tusmo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sisällys</t><t pos="N">sisältö</t></tg></mg></e>
+<e><lg><l pos="N">tuug</l><stg><st Contlex="N_">tuug</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">varas</t></tg></mg></e>
+<e><lg><l pos="N">ubax</l><stg><st Contlex="N_">ubax</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kukka</t></tg></mg></e>
+<e><lg><l pos="N">ukun</l><stg><st Contlex="N_">ukun</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kananmuna</t></tg></mg></e>
+<e><lg><l pos="N">ur</l><stg><st Contlex="N_">ur</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">haju</t></tg></mg></e>
+<e><lg><l pos="N">uur</l><stg><st Contlex="N_">uur</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">raskaus</t></tg></mg></e>
+<e><lg><l pos="N">uurcelin</l><stg><st Contlex="N_">uurcelin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">ehkäisy</t></tg></mg></e>
+<e><lg><l pos="N">uurcelis</l><stg><st Contlex="N_">uurcelis</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">ehkäisyväline</t></tg></mg></e>
+<e><lg><l pos="N">uurjiif</l><stg><st Contlex="N_">uurjiif</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sikiö</t></tg></mg></e>
+<e><lg><l pos="N">wadar</l><stg><st Contlex="N_">wadar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">monikko (kielioppi)</t></tg></mg></e>
+<e><lg><l pos="N">wadne</l><stg><st Contlex="N_">wadne</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sydän</t></tg></mg></e>
+<e><lg><l pos="N">wallac</l><stg><st Contlex="N_">wallac</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">aamupahoinvointi</t></tg></mg></e>
+<e><lg><l pos="N">walo</l><stg><st Contlex="N_">walo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">päästäinen</t></tg></mg></e>
+<e><lg><l pos="N">waqooyi</l><stg><st Contlex="N_">waqooyi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">pohjoinen</t></tg></mg></e>
+<e><lg><l pos="N">waqooyi bari</l><stg><st Contlex="N_">waqooyi bari</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">koillinen</t></tg></mg></e>
+<e><lg><l pos="N">waqooyi galbeed</l><stg><st Contlex="N_">waqooyi galbeed</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">luode</t></tg></mg></e>
+<e><lg><l pos="N">waqti</l><stg><st Contlex="N_">waqti</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">aika</t></tg></mg></e>
+<e><lg><l pos="N">waraabe</l><stg><st Contlex="N_">waraabe</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">hyeena</t></tg></mg></e>
+<e><lg><l pos="N">waraabow</l><stg><st Contlex="N_">waraabow</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kuppa</t></tg></mg></e>
+<e><lg><l pos="N">wareer</l><stg><st Contlex="N_">wareer</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">huimaus</t><t pos="N">sekavuus</t></tg></mg></e>
+<e><lg><l pos="N">wargeys</l><stg><st Contlex="N_">wargeys</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sanomalehti</t><t pos="N">aikakauslehti</t></tg></mg></e>
+<e><lg><l pos="N">wariye</l><stg><st Contlex="N_">wariye</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">toimittaja</t></tg></mg></e>
+<e><lg><l pos="N">wariye gaar ah</l><stg><st Contlex="N_">wariye gaar ah</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kirjeenvaihtaja</t></tg></mg></e>
+<e><lg><l pos="N">warqad</l><stg><st Contlex="N_">warqad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">paperi</t><t pos="N">kirje</t></tg></mg></e>
+<e><lg><l pos="N">warqadda aqoonsiga</l><stg><st Contlex="N_">warqadda aqoonsiga</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">henkilökortti</t></tg></mg></e>
+<e><lg><l pos="N">warqadda dhakhtarka</l><stg><st Contlex="N_">warqadda dhakhtarka</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">resepti</t></tg></mg></e>
+<e><lg><l pos="N">wasaarad</l><stg><st Contlex="N_">wasaarad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">ministeriö</t></tg></mg></e>
+<e><lg><l pos="N">wasaaradda maaliyadda</l><stg><st Contlex="N_">wasaaradda maaliyadda</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">valtiovarainministeriö</t></tg></mg></e>
+<e><lg><l pos="N">wasiir</l><stg><st Contlex="N_">wasiir</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">ministeri</t></tg></mg></e>
+<e><lg><l pos="N">wasiirka arrimaha debedda</l><stg><st Contlex="N_">wasiirka arrimaha debedda</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">ulkoasiainministeri</t></tg></mg></e>
+<e><lg><l pos="N">waxbarashada khasabka</l><stg><st Contlex="N_">waxbarashada khasabka</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">oppivelvollisuus</t></tg></mg></e>
+<e><lg><l pos="N">webi</l><stg><st Contlex="N_">webi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">joki</t></tg></mg></e>
+<e><lg><l pos="N">weer</l><stg><st Contlex="N_">weer</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sanonta</t><t pos="N">fraasi</t><t pos="N">ilmaus</t><t pos="N">lauseke</t></tg></mg></e>
+<e><lg><l pos="N">weerar</l><stg><st Contlex="N_">weerar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">hyökkäys</t></tg></mg></e>
+<e><lg><l pos="N">weeraryahan</l><stg><st Contlex="N_">weeraryahan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">hyökkääjä (jalkapallo)</t></tg></mg></e>
+<e><lg><l pos="N">weji</l><stg><st Contlex="N_">weji</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kasvot</t></tg></mg></e>
+<e><lg><l pos="N">weyddiinley</l><stg><st Contlex="N_">weyddiinley</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kysymyssana</t></tg></mg></e>
+<e><lg><l pos="N">wiil</l><stg><st Contlex="N_">wiil</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">poika</t></tg></mg></e>
+<e><lg><l pos="N">wiish</l><stg><st Contlex="N_">wiish</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">hissi</t><t pos="N">sireeni</t></tg></mg></e>
+<e><lg><l pos="N">wiyil</l><stg><st Contlex="N_">wiyil</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sarvikuono</t></tg></mg></e>
+<e><lg><l pos="N">xaaqin</l><stg><st Contlex="N_">xaaqin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">luuta</t></tg></mg></e>
+<e><lg><l pos="N">xaar</l><stg><st Contlex="N_">xaar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">uloste</t><t pos="N">paska</t></tg></mg></e>
+<e><lg><l pos="N">xaas</l><stg><st Contlex="N_">xaas</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">aviopuoliso</t><t pos="N">puoliso</t></tg></mg></e>
+<e><lg><l pos="N">xabaal</l><stg><st Contlex="N_">xabaal</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">hauta</t><t pos="N">hautausmaa</t></tg></mg></e>
+<e><lg><l pos="N">xabaalaqode</l><stg><st Contlex="N_">xabaalaqode</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">haudankaivaja</t></tg></mg></e>
+<e><lg><l pos="N">xabaalaquf</l><stg><st Contlex="N_">xabaalaquf</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">maasika</t></tg></mg></e>
+<e><lg><l pos="N">xabad</l><stg><st Contlex="N_">xabad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">rinta</t></tg></mg></e>
+<e><lg><l pos="N">xabag</l><stg><st Contlex="N_">xabag</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">pihka</t><t pos="N">hartsi</t><t pos="N">liima</t></tg></mg></e>
+<e><lg><l pos="N">xabash</l><stg><st Contlex="N_">xabash</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">neekeri</t></tg></mg></e>
+<e><lg><l pos="N">Xabashi</l><stg><st Contlex="N_">Xabashi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">etiopialainen</t></tg></mg></e>
+<e><lg><l pos="N">xabbad tiro</l><stg><st Contlex="N_">xabbad tiro</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kappale</t></tg></mg></e>
+<e><lg><l pos="N">xabbad</l><stg><st Contlex="N_">xabbad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">luoti</t><t pos="N">patruuna</t></tg></mg></e>
+<e><lg><l pos="N">xabbad</l><stg><st Contlex="N_">xabbad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kuppa</t></tg></mg></e>
+<e><lg><l pos="N">xabeeb</l><stg><st Contlex="N_">xabeeb</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">käheys</t></tg></mg></e>
+<e><lg><l pos="N">xabsi</l><stg><st Contlex="N_">xabsi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">vankila</t></tg></mg></e>
+<e><lg><l pos="N">xabsijire</l><stg><st Contlex="N_">xabsijire</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">vanginvartija</t></tg></mg></e>
+<e><lg><l pos="N">xadato</l><stg><st Contlex="N_">xadato</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kutitus</t><t pos="N">kutittelu</t></tg></mg></e>
+<e><lg><l pos="N">xafiis</l><stg><st Contlex="N_">xafiis</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">toimisto</t></tg></mg></e>
+<e><lg><l pos="N">xagaa</l><stg><st Contlex="N_">xagaa</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kesä</t></tg></mg></e>
+<e><lg><l pos="N">xagal jilib</l><stg><st Contlex="N_">xagal jilib</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">polvitaive</t></tg></mg></e>
+<e><lg><l pos="N">xaj</l><stg><st Contlex="N_">xaj</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">pyhiinvaellus</t></tg></mg></e>
+<e><lg><l pos="N">xamaarato</l><stg><st Contlex="N_">xamaarato</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">matelija</t></tg></mg></e>
+<e><lg><l pos="N">xammeeti</l><stg><st Contlex="N_">xammeeti</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sappi</t></tg></mg></e>
+<e><lg><l pos="N">xanjo</l><stg><st Contlex="N_">xanjo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">purukumi</t><t pos="N">purkka</t></tg></mg></e>
+<e><lg><l pos="N">xanuun</l><stg><st Contlex="N_">xanuun</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kipu</t><t pos="N">särky</t><t pos="N">tauti</t><t pos="N">sairaus</t><t pos="N">vaiva</t></tg></mg></e>
+<e><lg><l pos="N">xaraash</l><stg><st Contlex="N_">xaraash</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">huutokauppa</t></tg></mg></e>
+<e><lg><l pos="N">xaraf</l><stg><st Contlex="N_">xaraf</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">aakkonen</t><t pos="N">kirjain</t></tg></mg></e>
+<e><lg><l pos="N">xawaaji</l><stg><st Contlex="N_">xawaaji</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">mauste ~ mausteet</t></tg></mg></e>
+<e><lg><l pos="N">xawaalad</l><stg><st Contlex="N_">xawaalad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">rahalähetys</t></tg></mg></e>
+<e><lg><l pos="N">xawaare</l><stg><st Contlex="N_">xawaare</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">nopeus {fysiikka}</t></tg></mg></e>
+<e><lg><l pos="N">xiddig</l><stg><st Contlex="N_">xiddig</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tähti</t></tg></mg></e>
+<e><lg><l pos="N">xiddiga-aqoon</l><stg><st Contlex="N_">xiddiga-aqoon</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tähtitiede</t><t pos="N">astronomia</t></tg></mg></e>
+<e><lg><l pos="N">xiddigasheeg</l><stg><st Contlex="N_">xiddigasheeg</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">astrologi</t><t pos="N">tähdistennustaja</t></tg></mg></e>
+<e><lg><l pos="N">xiddigayaqaan</l><stg><st Contlex="N_">xiddigayaqaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">astronomi</t><t pos="N">tähtitieteilijä</t></tg></mg></e>
+<e><lg><l pos="N">xiddigle</l><stg><st Contlex="N_">xiddigle</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">vänrikki</t></tg></mg></e>
+<e><lg><l pos="N">xidid</l><stg><st Contlex="N_">xidid</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">verisuoni</t><t pos="N">juuri {matematiikka}</t></tg></mg></e>
+<e><lg><l pos="N">xididnimo</l><stg><st Contlex="N_">xididnimo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">avioliittoon perustuva sukulaisuus</t><t pos="N">lankous</t></tg></mg></e>
+<e><lg><l pos="N">xidinxiito</l><stg><st Contlex="N_">xidinxiito</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tylli</t></tg></mg></e>
+<e><lg><l pos="N">xiidmo</l><stg><st Contlex="N_">xiidmo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">suolet</t></tg></mg></e>
+<e><lg><l pos="N">xildhibaan</l><stg><st Contlex="N_">xildhibaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kansanedustaja</t></tg></mg></e>
+<e><lg><l pos="N">xiniin</l><stg><st Contlex="N_">xiniin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kives</t><t pos="N">kivekset</t></tg></mg></e>
+<e><lg><l pos="N">xiriiriye</l><stg><st Contlex="N_">xiriiriye</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">liitin</t><t pos="N">konjunktio</t><t pos="N">sidesana {kielioppi}</t></tg></mg></e>
+<e><lg><l pos="N">xisaab</l><stg><st Contlex="N_">xisaab</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">matematiikka</t></tg></mg></e>
+<e><lg><l pos="N">xisaabaad</l><stg><st Contlex="N_">xisaabaad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kirjanpito</t></tg></mg></e>
+<e><lg><l pos="N">xisaabhaye</l><stg><st Contlex="N_">xisaabhaye</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kirjanpitäjä</t></tg></mg></e>
+<e><lg><l pos="N">xisaabiye</l><stg><st Contlex="N_">xisaabiye</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kirjanpitäjä</t><t pos="N">tilintarkastaja</t></tg></mg></e>
+<e><lg><l pos="N">xubin</l><stg><st Contlex="N_">xubin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">elin</t><t pos="N">jäsen</t><t pos="N">tavu {kielioppi}</t></tg></mg></e>
+<e><lg><l pos="N">xubinnimo</l><stg><st Contlex="N_">xubinnimo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">jäsenyys</t></tg></mg></e>
+<e><lg><l pos="N">xubno</l><stg><st Contlex="N_">xubno</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">elimistö</t></tg></mg></e>
+<e><lg><l pos="N">xuddun</l><stg><st Contlex="N_">xuddun</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">napa</t><t pos="N">keskipiste {geometria}</t></tg></mg></e>
+<e><lg><l pos="N">xusul</l><stg><st Contlex="N_">xusul</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kyynärpää</t></tg></mg></e>
+<e><lg><l pos="N">yaab</l><stg><st Contlex="N_">yaab</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">yllätys</t><t pos="N">hämmästys</t><t pos="N">ihme</t></tg></mg></e>
+<e><lg><l pos="N">yaab</l><stg><st Contlex="N_">yaab</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">huudahdus</t><t pos="N">huudahdussana</t><t pos="N">interjektio {kielioppi}</t></tg></mg></e>
+<e><lg><l pos="N">yaanbo</l><stg><st Contlex="N_">yaanbo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">kuokka</t></tg></mg></e>
+<e><lg><l pos="N">yaanyo</l><stg><st Contlex="N_">yaanyo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">tomaatti</t></tg></mg></e>
+<e><lg><l pos="N">yaxaas</l><stg><st Contlex="N_">yaxaas</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">krokotiili</t></tg></mg></e>
+<e><lg><l pos="N">yeey</l><stg><st Contlex="N_">yeey</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">susi</t></tg></mg></e>
+</r>

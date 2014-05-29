@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r>
+<e><lg><l pos="Adv">aalaa</l><stg><st Contlex="ADV_">aalaa</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Adv">usein</t></tg></mg></e>
+<e><lg><l pos="Adv">armaa</l><stg><st Contlex="ADV_">armaa</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Adv">ehkä</t><t pos="Adv">luultavasti</t></tg></mg></e>
+<e><lg><l pos="Adv">berri</l><stg><st Contlex="ADV_">berri</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Adv">huomenna</t></tg></mg></e>
+<e><lg><l pos="Adv">berri dambe</l><stg><st Contlex="ADV_">berri dambe</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Adv">ylihuomenna</t></tg></mg></e>
+<e><lg><l pos="Adv">beryahan</l><stg><st Contlex="ADV_">beryahan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Adv">viime aikoina</t><t pos="Adv">nykyään</t></tg></mg></e>
+<e><lg><l pos="Adv">berya ka dib</l><stg><st Contlex="ADV_">berya ka dib</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Adv">muutamaa päivää myöhemmin</t></tg></mg></e>
+<e><lg><l pos="Adv">dhaqsadii</l><stg><st Contlex="ADV_">dhaqsadii</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Adv">välittömästi</t><t pos="Adv">heti</t><t pos="Adv">pian</t></tg></mg></e>
+<e><lg><l pos="Adv">goorma</l><stg><st Contlex="ADV_">goorma</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Adv">koska</t><t pos="Adv">milloin</t></tg></mg></e>
+<e><lg><l pos="Adv">halkan</l><stg><st Contlex="ADV_">halkan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Adv">täällä</t></tg></mg></e>
+<e><lg><l pos="Adv">halkee</l><stg><st Contlex="ADV_">halkee</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Adv">missä</t></tg></mg></e>
+<e><lg><l pos="Adv">kama’ ah</l><stg><st Contlex="ADV_">kama’ ah</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Adv">sattumalta</t><t pos="Adv">vahingossa</t></tg></mg></e>
+<e><lg><l pos="Adv">keliya</l><stg><st Contlex="ADV_">keliya</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Adv">vain</t></tg></mg></e>
+<e><lg><l pos="Adv">maanta</l><stg><st Contlex="ADV_">maanta</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Adv">tänään</t></tg></mg></e>
+<e><lg><l pos="Adv">malaha</l><stg><st Contlex="ADV_">malaha</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Adv">ehkä</t><t pos="Adv">kenties</t><t pos="Adv">kai</t><t pos="Adv">voi olla</t></tg></mg></e>
+<e><lg><l pos="Adv">malaha</l><stg><st Contlex="ADV_">malaha</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Adv">todennäköisesti</t><t pos="Adv">luultavasti</t></tg></mg></e>
+<e><lg><l pos="Adv">maxay ... u</l><stg><st Contlex="ADV_">maxay ... u</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Adv">miksi</t></tg></mg></e>
+<e><lg><l pos="Adv">shalay</l><stg><st Contlex="ADV_">shalay</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Adv">eilen</t></tg></mg></e>
+<e><lg><l pos="Adv">sidaas</l><stg><st Contlex="ADV_">sidaas</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Adv">niin</t></tg></mg></e>
+<e><lg><l pos="Adv">sidee</l><stg><st Contlex="ADV_">sidee</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Adv">miten</t><t pos="Adv">kuinka</t><t pos="Adv">millainen</t></tg></mg></e>
+<e><lg><l pos="Adv">si wanaagsan</l><stg><st Contlex="ADV_">si wanaagsan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Adv">hyvin</t></tg></mg></e>
+<e><lg><l pos="Adv">tusaale ahaan</l><stg><st Contlex="ADV_">tusaale ahaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Adv">esimerkiksi</t></tg></mg></e>
+</r>

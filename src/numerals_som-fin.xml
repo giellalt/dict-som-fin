@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r>
+<e><lg><l pos="Num">afar</l><stg><st Contlex="NUM_">afar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Num">neljä</t></tg></mg></e>
+<e><lg><l pos="Num">afaraad</l><stg><st Contlex="NUM_">afaraad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Num">neljäs</t></tg></mg></e>
+<e><lg><l pos="Num">afariyotoban</l><stg><st Contlex="NUM_">afariyotoban</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Num">neljätoista</t></tg></mg></e>
+<e><lg><l pos="Num">afartamaad</l><stg><st Contlex="NUM_">afartamaad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Num">neljäskymmenes</t></tg></mg></e>
+<e><lg><l pos="Num">afartan</l><stg><st Contlex="NUM_">afartan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Num">neljäkymmentä</t></tg></mg></e>
+<e><lg><l pos="Num">boqol tiro</l><stg><st Contlex="NUM_">boqol tiro</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Num">sata</t></tg></mg></e>
+<e><lg><l pos="Num">boqolaad tiro</l><stg><st Contlex="NUM_">boqolaad tiro</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Num">sadas</t></tg></mg></e>
+<e><lg><l pos="Num">kow</l><stg><st Contlex="NUM_">kow</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Num">yksi</t></tg></mg></e>
+<e><lg><l pos="Num">kun</l><stg><st Contlex="NUM_">kun</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Num">tuhat</t></tg></mg></e>
+<e><lg><l pos="Num">labo tiro</l><stg><st Contlex="NUM_">labo tiro</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Num">kaksi</t><t pos="Num">molemmat</t></tg></mg></e>
+<e><lg><l pos="Num">malyan</l><stg><st Contlex="NUM_">malyan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Num">miljoona</t></tg></mg></e>
+<e><lg><l pos="Num">saddex</l><stg><st Contlex="NUM_">saddex</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Num">kolme</t></tg></mg></e>
+<e><lg><l pos="Num">saddex iyo toban</l><stg><st Contlex="NUM_">saddex iyo toban</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Num">kolmetoista</t></tg></mg></e>
+<e><lg><l pos="Num">saddexaad</l><stg><st Contlex="NUM_">saddexaad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Num">kolmas</t></tg></mg></e>
+<e><lg><l pos="Num">soddomeeye</l><stg><st Contlex="NUM_">soddomeeye</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Num">kolmisenkymmentä</t></tg></mg></e>
+<e><lg><l pos="Num">soddon</l><stg><st Contlex="NUM_">soddon</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Num">kolmekymmentä</t></tg></mg></e>
+<e><lg><l pos="Num">soddonaad</l><stg><st Contlex="NUM_">soddonaad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Num">kolmaskymmenes</t></tg></mg></e>
+<e><lg><l pos="Num">toban</l><stg><st Contlex="NUM_">toban</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Num">kymmenen</t></tg></mg></e>
+<e><lg><l pos="Num">tobanaad</l><stg><st Contlex="NUM_">tobanaad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Num">kymmenes</t></tg></mg></e>
+<e><lg><l pos="Num">tobaneeye</l><stg><st Contlex="NUM_">tobaneeye</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Num">noin kymmenen</t></tg></mg></e>
+</r>

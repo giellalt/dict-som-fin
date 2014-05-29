@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r>
+<e><lg><l pos="V">aad</l><stg><st Contlex="V_">aad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">mennä</t></tg></mg></e>
+<e><lg><l pos="V">aasaas</l><stg><st Contlex="V_">aasaas</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">perustaa</t></tg></mg></e>
+<e><lg><l pos="V">afceli</l><stg><st Contlex="V_">afceli</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">tulkata</t></tg></mg></e>
+<e><lg><l pos="V">afduub</l><stg><st Contlex="V_">afduub</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">siepata</t><t pos="V">kaapata</t></tg></mg></e>
+<e><lg><l pos="V">amar</l><stg><st Contlex="V_">amar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">komentaa</t><t pos="V">käskeä</t></tg></mg></e>
+<e><lg><l pos="V">arag</l><stg><st Contlex="V_">arag</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">nähdä</t></tg></mg></e>
+<e><lg><l pos="V">astaamee</l><stg><st Contlex="V_">astaamee</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">merkitä</t></tg></mg></e>
+<e><lg><l pos="V">baadiyee</l><stg><st Contlex="V_">baadiyee</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">eksyttää</t></tg></mg></e>
+<e><lg><l pos="V">baashaal</l><stg><st Contlex="V_">baashaal</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">viettää</t></tg></mg></e>
+<e><lg><l pos="V">baashaali</l><stg><st Contlex="V_">baashaali</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">viihdyttää</t></tg></mg></e>
+<e><lg><l pos="V">ballaari</l><stg><st Contlex="V_">ballaari</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">leventää</t><t pos="V">levittää</t></tg></mg></e>
+<e><lg><l pos="V">ballan</l><stg><st Contlex="V_">ballan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">sopia</t><t pos="V">luvata</t></tg></mg></e>
+<e><lg><l pos="V">bar</l><stg><st Contlex="V_">bar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">opettaa</t></tg></mg></e>
+<e><lg><l pos="V">bar</l><stg><st Contlex="V_">bar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">esitellä</t><t pos="V">tutustuttaa</t></tg></mg></e>
+<e><lg><l pos="V">bar</l><stg><st Contlex="V_">bar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">puolittaa</t></tg></mg></e>
+<e><lg><l pos="V">baraarug</l><stg><st Contlex="V_">baraarug</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">herätä</t><t pos="V">havahtua</t></tg></mg></e>
+<e><lg><l pos="V">baraaruji</l><stg><st Contlex="V_">baraaruji</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">herättää</t><t pos="V">havahduttaa</t></tg></mg></e>
+<e><lg><l pos="V">barafoob</l><stg><st Contlex="V_">barafoob</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">jäätyä</t></tg></mg></e>
+<e><lg><l pos="V">barafuumee</l><stg><st Contlex="V_">barafuumee</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">hajustaa</t><t pos="V">parfymoida</t></tg></mg></e>
+<e><lg><l pos="V">barakee</l><stg><st Contlex="V_">barakee</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">siunata</t></tg></mg></e>
+<e><lg><l pos="V">barar</l><stg><st Contlex="V_">barar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">turvota</t></tg></mg></e>
+<e><lg><l pos="V">bax</l><stg><st Contlex="V_">bax</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">poistua</t><t pos="V">lähteä</t><t pos="V">mennä</t></tg></mg></e>
+<e><lg><l pos="V">bishaaree</l><stg><st Contlex="V_">bishaaree</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">onnitella</t></tg></mg></e>
+<e><lg><l pos="V">boqonta gooy</l><stg><st Contlex="V_">boqonta gooy</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">heikentää</t></tg></mg></e>
+<e><lg><l pos="V">caado qab</l><stg><st Contlex="V_">caado qab</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">olla kuukautiset</t></tg></mg></e>
+<e><lg><l pos="V">canaano</l><stg><st Contlex="V_">canaano</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">nuhdella</t></tg></mg></e>
+<e><lg><l pos="V">candhuufee</l><stg><st Contlex="V_">candhuufee</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">sylkeä</t></tg></mg></e>
+<e><lg><l pos="V">carrabla’aan</l><stg><st Contlex="V_">carrabla’aan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">lespata</t><t pos="V">sammaltaa</t><t pos="V">sammallus</t></tg></mg></e>
+<e><lg><l pos="V">cirroob</l><stg><st Contlex="V_">cirroob</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">harmaantua</t></tg></mg></e>
+<e><lg><l pos="V">cuncun</l><stg><st Contlex="V_">cuncun</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">kutittaa</t></tg></mg></e>
+<e><lg><l pos="V">daabac</l><stg><st Contlex="V_">daabac</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">painaa</t></tg></mg></e>
+<e><lg><l pos="V">daac</l><stg><st Contlex="V_">daac</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">röyhtäistä</t><t pos="V">röyhtäillä</t></tg></mg></e>
+<e><lg><l pos="V">daandaanso</l><stg><st Contlex="V_">daandaanso</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">provosoida</t><t pos="V">yllyttää</t></tg></mg></e>
+<e><lg><l pos="V">dabci</l><stg><st Contlex="V_">dabci</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">löysätä</t></tg></mg></e>
+<e><lg><l pos="V">dad</l><stg><st Contlex="V_">dad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">peitellä</t><t pos="V">salata</t><t pos="V">piilottaa</t></tg></mg></e>
+<e><lg><l pos="V">dadaal</l><stg><st Contlex="V_">dadaal</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">pyrkiä</t><t pos="V">yrittää kovasti</t></tg></mg></e>
+<e><lg><l pos="V">dhadhami</l><stg><st Contlex="V_">dhadhami</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">maistaa</t></tg></mg></e>
+<e><lg><l pos="V">dhadhanso</l><stg><st Contlex="V_">dhadhanso</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">maistella</t></tg></mg></e>
+<e><lg><l pos="V">dhawaaq</l><stg><st Contlex="V_">dhawaaq</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">huutaa</t></tg></mg></e>
+<e><lg><l pos="V">dhuus</l><stg><st Contlex="V_">dhuus</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">pieraista</t></tg></mg></e>
+<e><lg><l pos="V">dimoqraadiyee</l><stg><st Contlex="V_">dimoqraadiyee</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">demokratisoida</t><t pos="V">kansanvaltaistaa</t></tg></mg></e>
+<e><lg><l pos="V">diyaari</l><stg><st Contlex="V_">diyaari</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">valmistaa</t><t pos="V">laatia</t></tg></mg></e>
+<e><lg><l pos="V">diyaarso</l><stg><st Contlex="V_">diyaarso</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">valmistella</t></tg></mg></e>
+<e><lg><l pos="V">faag</l><stg><st Contlex="V_">faag</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">kaivaa</t></tg></mg></e>
+<e><lg><l pos="V">fara ka cayaar</l><stg><st Contlex="V_">fara ka cayaar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">hyväillä</t></tg></mg></e>
+<e><lg><l pos="V">fikir</l><stg><st Contlex="V_">fikir</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">harkita</t><t pos="V">miettiä</t><t pos="V">ajatella</t></tg></mg></e>
+<e><lg><l pos="V">foorarso</l><stg><st Contlex="V_">foorarso</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">kumarrella</t></tg></mg></e>
+<e><lg><l pos="V">gaad</l><stg><st Contlex="V_">gaad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">vaania</t><t pos="V">väijyä</t></tg></mg></e>
+<e><lg><l pos="V">gad</l><stg><st Contlex="V_">gad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">ostaa</t><t pos="V">myydä</t></tg></mg></e>
+<e><lg><l pos="V">gorgori</l><stg><st Contlex="V_">gorgori</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">tinkiä</t></tg></mg></e>
+<e><lg><l pos="V">guur</l><stg><st Contlex="V_">guur</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">muuttaa</t><t pos="V">siirtyä</t></tg></mg></e>
+<e><lg><l pos="V">guuri</l><stg><st Contlex="V_">guuri</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">naittaa</t></tg></mg></e>
+<e><lg><l pos="V">guuri</l><stg><st Contlex="V_">guuri</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">siirtää</t><t pos="V">kopioida</t><t pos="V">jäljentää</t></tg></mg></e>
+<e><lg><l pos="V">hamaanso</l><stg><st Contlex="V_">hamaanso</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">haukotella</t></tg></mg></e>
+<e><lg><l pos="V">hambalyee</l><stg><st Contlex="V_">hambalyee</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">onnitella</t></tg></mg></e>
+<e><lg><l pos="V">hindhis</l><stg><st Contlex="V_">hindhis</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">aivastaa</t></tg></mg></e>
+<e><lg><l pos="V">hingood</l><stg><st Contlex="V_">hingood</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">nikotella</t><t pos="V">hikotella</t></tg></mg></e>
+<e><lg><l pos="V">hirdi</l><stg><st Contlex="V_">hirdi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">törmätä yhteen</t><t pos="V">puskea</t></tg></mg></e>
+<e><lg><l pos="V">hirgeli</l><stg><st Contlex="V_">hirgeli</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">soveltaa</t><t pos="V">toteuttaa</t></tg></mg></e>
+<e><lg><l pos="V">iigu salaan</l><stg><st Contlex="V_">iigu salaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">kerro terveisiä</t></tg></mg></e>
+<e><lg><l pos="V">ilbax</l><stg><st Contlex="V_">ilbax</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">sivistyä</t><t pos="V">sivilisoitua</t></tg></mg></e>
+<e><lg><l pos="V">imaan</l><stg><st Contlex="V_">imaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">tulla</t><t pos="V">saapua</t></tg></mg></e>
+<e><lg><l pos="V">kabaabyee</l><stg><st Contlex="V_">kabaabyee</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">puuduttaa</t></tg></mg></e>
+<e><lg><l pos="V">kabaabyood</l><stg><st Contlex="V_">kabaabyood</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">puutua</t></tg></mg></e>
+<e><lg><l pos="V">kaman tun</l><stg><st Contlex="V_">kaman tun</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">soittaa kitaraa</t></tg></mg></e>
+<e><lg><l pos="V">laad</l><stg><st Contlex="V_">laad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">potkia</t></tg></mg></e>
+<e><lg><l pos="V">markhaatifur</l><stg><st Contlex="V_">markhaatifur</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">todistaa</t></tg></mg></e>
+<e><lg><l pos="V">matag</l><stg><st Contlex="V_">matag</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">oksentaa</t></tg></mg></e>
+<e><lg><l pos="V">meherso</l><stg><st Contlex="V_">meherso</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">vihkiä</t></tg></mg></e>
+<e><lg><l pos="V">murug</l><stg><st Contlex="V_">murug</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">surra</t></tg></mg></e>
+<e><lg><l pos="V">naafee</l><stg><st Contlex="V_">naafee</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">vammauttaa</t><t pos="V">invalidisoida</t><t pos="V">tehdä toimintakyvyttömäksi</t></tg></mg></e>
+<e><lg><l pos="V">naafee</l><stg><st Contlex="V_">naafee</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">lamauttaa</t><t pos="V">vaurioittaa</t></tg></mg></e>
+<e><lg><l pos="V">naafoob</l><stg><st Contlex="V_">naafoob</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">vammautua</t></tg></mg></e>
+<e><lg><l pos="V">naasnuuji</l><stg><st Contlex="V_">naasnuuji</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">imettää</t></tg></mg></e>
+<e><lg><l pos="V">nasaaroob</l><stg><st Contlex="V_">nasaaroob</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">kääntyä kristityksi</t></tg></mg></e>
+<e><lg><l pos="V">nasakh</l><stg><st Contlex="V_">nasakh</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">muuttaa</t><t pos="V">peruuttaa</t><t pos="V">kumota</t><t pos="V">mitätöidä</t><t pos="V">pyyhkiä</t></tg></mg></e>
+<e><lg><l pos="V">qaamoob</l><stg><st Contlex="V_">qaamoob</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">velkaantua</t><t pos="V">olla velkaa</t></tg></mg></e>
+<e><lg><l pos="V">qaangaar</l><stg><st Contlex="V_">qaangaar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">aikuistua</t><t pos="V">tulla täysi-ikäiseksi</t></tg></mg></e>
+<e><lg><l pos="V">qosol</l><stg><st Contlex="V_">qosol</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">nauraa</t><t pos="V">naureskella</t></tg></mg></e>
+<e><lg><l pos="V">safar</l><stg><st Contlex="V_">safar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">matkustaa</t></tg></mg></e>
+<e><lg><l pos="V">salaan</l><stg><st Contlex="V_">salaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">tervehtiä</t></tg></mg></e>
+<e><lg><l pos="V">sarrifo</l><stg><st Contlex="V_">sarrifo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">vaihtaa</t></tg></mg></e>
+<e><lg><l pos="V">saxiix</l><stg><st Contlex="V_">saxiix</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">allekirjoittaa</t></tg></mg></e>
+<e><lg><l pos="V">shanlee</l><stg><st Contlex="V_">shanlee</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">kammata</t></tg></mg></e>
+<e><lg><l pos="V">shid</l><stg><st Contlex="V_">shid</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">sytyttää</t></tg></mg></e>
+<e><lg><l pos="V">shummi</l><stg><st Contlex="V_">shummi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">suudella</t></tg></mg></e>
+<e><lg><l pos="V">sigaar cab</l><stg><st Contlex="V_">sigaar cab</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">tupakoida</t></tg></mg></e>
+<e><lg><l pos="V">siigayso</l><stg><st Contlex="V_">siigayso</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">tyydyttää itsensä</t><t pos="V">masturboida</t></tg></mg></e>
+<e><lg><l pos="V">siinso</l><stg><st Contlex="V_">siinso</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">niistää</t></tg></mg></e>
+<e><lg><l pos="V">soon</l><stg><st Contlex="V_">soon</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">paastota</t></tg></mg></e>
+<e><lg><l pos="V">turjun</l><stg><st Contlex="V_">turjun</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">kääntää</t><t pos="V">tulkata</t></tg></mg></e>
+<e><lg><l pos="V">turub</l><stg><st Contlex="V_">turub</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">pelata korttia</t></tg></mg></e>
+<e><lg><l pos="V">ur</l><stg><st Contlex="V_">ur</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">haista</t></tg></mg></e>
+<e><lg><l pos="V">uuree</l><stg><st Contlex="V_">uuree</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">tehdä raskaana</t></tg></mg></e>
+<e><lg><l pos="V">uurow</l><stg><st Contlex="V_">uurow</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">tulla raskaaksi</t></tg></mg></e>
+<e><lg><l pos="V">wargeli</l><stg><st Contlex="V_">wargeli</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">ilmoittaa</t></tg></mg></e>
+<e><lg><l pos="V">weerar</l><stg><st Contlex="V_">weerar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">hyökätä</t></tg></mg></e>
+<e><lg><l pos="V">xabaal</l><stg><st Contlex="V_">xabaal</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">haudata</t></tg></mg></e>
+<e><lg><l pos="V">xabbadee</l><stg><st Contlex="V_">xabbadee</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">tulittaa</t><t pos="V">ampua</t></tg></mg></e>
+<e><lg><l pos="V">xabbis</l><stg><st Contlex="V_">xabbis</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">vangita</t></tg></mg></e>
+<e><lg><l pos="V">xadatee</l><stg><st Contlex="V_">xadatee</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">kutittaa</t></tg></mg></e>
+<e><lg><l pos="V">xamo</l><stg><st Contlex="V_">xamo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">juoruta</t></tg></mg></e>
+<e><lg><l pos="V">xaraash</l><stg><st Contlex="V_">xaraash</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">huutokaupata</t></tg></mg></e>
+<e><lg><l pos="V">yaab</l><stg><st Contlex="V_">yaab</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="V">yllättyä</t><t pos="V">ihmetellä</t></tg></mg></e>
+</r>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r>
+<e><lg><l pos="N" type="Prop">Aasiya</l><stg><st Contlex="PROP_">Aasiya</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Aasia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Afrika</l><stg><st Contlex="PROP_">Afrika</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Afrikka</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Aqalka Cad</l><stg><st Contlex="PROP_">Aqalka Cad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Valkoinen talo</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Ayslaan</l><stg><st Contlex="PROP_">Ayslaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Islanti</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Denmaark</l><stg><st Contlex="PROP_">Denmaark</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Tanska</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Eebbe</l><stg><st Contlex="PROP_">Eebbe</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Jumala</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Faransiis</l><stg><st Contlex="PROP_">Faransiis</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Ranska</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Fiinlaan</l><stg><st Contlex="PROP_">Fiinlaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Suomi</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Iswidhan</l><stg><st Contlex="PROP_">Iswidhan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Ruotsi</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Jabuuti</l><stg><st Contlex="PROP_">Jabuuti</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Djibouti [maa / kaupunki Itä-Afrikassa.]</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Jamhuuriyadda Soomaaliyeed</l><stg><st Contlex="PROP_">Jamhuuriyadda Soomaaliyeed</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Somalian tasavalta</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Jarmal</l><stg><st Contlex="PROP_">Jarmal</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Saksa</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Koonfur Afrika</l><stg><st Contlex="PROP_">Koonfur Afrika</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Etelä-Afrikka</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Mareykan</l><stg><st Contlex="PROP_">Mareykan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Amerikka</t><t pos="N" type="Prop">Yhdysvallat</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Masiix</l><stg><st Contlex="PROP_">Masiix</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Kristus (Messias)</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Muqdisho</l><stg><st Contlex="PROP_">Muqdisho</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Mogadishu [pääkaupunki Somaliassa.]</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Noorwey</l><stg><st Contlex="PROP_">Noorwey</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Norja</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Qur’aan</l><stg><st Contlex="PROP_">Qur’aan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Koraani</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Soomaaliya</l><stg><st Contlex="PROP_">Soomaaliya</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Somalia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Talyaani</l><stg><st Contlex="PROP_">Talyaani</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Italia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Xabasha</l><stg><st Contlex="PROP_">Xabasha</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Etiopia</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Xiddigta Waabberi</l><stg><st Contlex="PROP_">Xiddigta Waabberi</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Venus</t><t pos="N" type="Prop">aamutähti</t></tg></mg></e>
+<e><lg><l pos="N" type="Prop">Yurub</l><stg><st Contlex="PROP_">Yurub</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N" type="Prop">Eurooppa</t></tg></mg></e>
+</r>

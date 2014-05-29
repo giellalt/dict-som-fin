@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r>
+<e><lg><l pos="INTERJ">aad baad u mahadsan tahay</l><stg><st Contlex="INTERJ_">aad baad u mahadsan tahay</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="INTERJ">oikein paljon kiitoksia</t></tg></mg></e>
+<e><lg><l pos="INTERJ">aad baad u mahadsan tahay</l><stg><st Contlex="INTERJ_">aad baad u mahadsan tahay</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="INTERJ">paljon kiitoksia / kiitoksia paljon</t></tg></mg></e>
+<e><lg><l pos="PHRASE">adaa mudan</l><stg><st Contlex="PHRASE_">adaa mudan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="PHRASE">ei kestä</t><t pos="PHRASE">ole hyvä</t><t pos="PHRASE">olkaa hyvä</t></tg></mg></e>
+<e><lg><l pos="INTERJ">ahlan</l><stg><st Contlex="INTERJ_">ahlan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="INTERJ">hei</t><t pos="INTERJ">moi</t><t pos="INTERJ">terve</t></tg></mg></e>
+<e><lg><l pos="INTERJ">bal</l><stg><st Contlex="INTERJ_">bal</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="INTERJ">selvä</t></tg></mg></e>
+<e><lg><l pos="PHRASE">barasho wanaagsan</l><stg><st Contlex="PHRASE_">barasho wanaagsan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="PHRASE">hauska tutustua</t></tg></mg></e>
+<e><lg><l pos="INTERJ">dabcan</l><stg><st Contlex="INTERJ_">dabcan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="INTERJ">tietysti</t><t pos="INTERJ">tietenkin</t><t pos="INTERJ">totta kai</t><t pos="INTERJ">ilman muuta</t></tg></mg></e>
+<e><lg><l pos="PHRASE">dhibaato ma leh</l><stg><st Contlex="PHRASE_">dhibaato ma leh</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="PHRASE">ei haittaa</t></tg></mg></e>
+<e><lg><l pos="PHRASE">faraha iga qaad</l><stg><st Contlex="PHRASE_">faraha iga qaad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="PHRASE">anna minun olla rauhassa</t></tg></mg></e>
+<e><lg><l pos="PHRASE">fiid wanaagsan</l><stg><st Contlex="PHRASE_">fiid wanaagsan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="PHRASE">hyvää iltaa</t></tg></mg></e>
+<e><lg><l pos="PHRASE">galab wanaagsan</l><stg><st Contlex="PHRASE_">galab wanaagsan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="PHRASE">hyvää iltapäivää</t></tg></mg></e>
+<e><lg><l pos="PHRASE">habeen wanaagsan</l><stg><st Contlex="PHRASE_">habeen wanaagsan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="PHRASE">hyvää yötä</t></tg></mg></e>
+<e><lg><l pos="PHRASE">ha i taaban</l><stg><st Contlex="PHRASE_">ha i taaban</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="PHRASE">älä koske</t></tg></mg></e>
+<e><lg><l pos="INTERJ">ha kuu ahaato fiid wanaagsan</l><stg><st Contlex="INTERJ_">ha kuu ahaato fiid wanaagsan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="INTERJ">hyvää illanjatkoa</t></tg></mg></e>
+<e><lg><l pos="INTERJ">ha kuu ahaato maalin wanaagsan</l><stg><st Contlex="INTERJ_">ha kuu ahaato maalin wanaagsan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="INTERJ">hyvää päivänjatkoa</t></tg></mg></e>
+<e><lg><l pos="INTERJ">hambalyo</l><stg><st Contlex="INTERJ_">hambalyo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="INTERJ">onneksi olkoon</t></tg></mg></e>
+<e><lg><l pos="INTERJ">iga raalli ahow</l><stg><st Contlex="INTERJ_">iga raalli ahow</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="INTERJ">anna anteeksi</t><t pos="INTERJ">anteeksi</t><t pos="INTERJ">anteeksi kuinka</t></tg></mg></e>
+<e><lg><l pos="PHRASE">iga raalli ahow</l><stg><st Contlex="PHRASE_">iga raalli ahow</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="PHRASE">pyydän anteeksi</t></tg></mg></e>
+<e><lg><l pos="INTERJ">is arag dambe</l><stg><st Contlex="INTERJ_">is arag dambe</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="INTERJ">nähdään</t></tg></mg></e>
+<e><lg><l pos="INTERJ">is arag dambe</l><stg><st Contlex="INTERJ_">is arag dambe</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="INTERJ">näkemiin</t></tg></mg></e>
+<e><lg><l pos="PHRASE">iska warran?</l><stg><st Contlex="PHRASE_">iska warran?</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="PHRASE">mitä kuuluu?</t></tg></mg></e>
+<e><lg><l pos="PHRASE">ismaqal dambe</l><stg><st Contlex="PHRASE_">ismaqal dambe</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="PHRASE">kuulemiin</t></tg></mg></e>
+<e><lg><l pos="INTERJ">kheyr ayaan kuu rajeynayaa</l><stg><st Contlex="INTERJ_">kheyr ayaan kuu rajeynayaa</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="INTERJ">kaikkea hyvää</t></tg></mg></e>
+<e><lg><l pos="INTERJ">kirismas wanaagsan</l><stg><st Contlex="INTERJ_">kirismas wanaagsan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="INTERJ">hyvää joulua</t></tg></mg></e>
+<e><lg><l pos="INTERJ">Kirismas wanaagsan iyo sanad cusub oo farxad leh</l><stg><st Contlex="INTERJ_">Kirismas wanaagsan iyo sanad cusub oo farxad leh</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="INTERJ">Hyvää joulua ja onnellista uutta vuotta</t></tg></mg></e>
+<e><lg><l pos="PHRASE">kulan wanaagsan</l><stg><st Contlex="PHRASE_">kulan wanaagsan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="PHRASE">hauska tavata</t></tg></mg></e>
+<e><lg><l pos="INTERJ">ku soo dhowow Fiinlaan</l><stg><st Contlex="INTERJ_">ku soo dhowow Fiinlaan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="INTERJ">tervetuloa Suomeen</t></tg></mg></e>
+<e><lg><l pos="INTERJ">ku soo dhowow Soomaaliya</l><stg><st Contlex="INTERJ_">ku soo dhowow Soomaaliya</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="INTERJ">tervetuloa Somaliaan</t></tg></mg></e>
+<e><lg><l pos="INTERJ">maalin-dhalasho wanaagsan</l><stg><st Contlex="INTERJ_">maalin-dhalasho wanaagsan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="INTERJ">hyvää syntymäpäivää</t></tg></mg></e>
+<e><lg><l pos="PHRASE">maalin wanaagsan</l><stg><st Contlex="PHRASE_">maalin wanaagsan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="PHRASE">hyvää päivää</t></tg></mg></e>
+<e><lg><l pos="PHRASE">ma fahmin</l><stg><st Contlex="PHRASE_">ma fahmin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="PHRASE">en ymmärrä</t></tg></mg></e>
+<e><lg><l pos="PHRASE">magacaa?</l><stg><st Contlex="PHRASE_">magacaa?</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="PHRASE">Mikä sinun nimesi on?</t></tg></mg></e>
+<e><lg><l pos="PHRASE">magaceygu waa</l><stg><st Contlex="PHRASE_">magaceygu waa</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="PHRASE">minun nimeni on</t></tg></mg></e>
+<e><lg><l pos="PHRASE">ma garanayo</l><stg><st Contlex="PHRASE_">ma garanayo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="PHRASE">en tiedä</t></tg></mg></e>
+<e><lg><l pos="INTERJ">mahadsanid</l><stg><st Contlex="INTERJ_">mahadsanid</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="INTERJ">kiitos</t></tg></mg></e>
+<e><lg><l pos="INTERJ">ma jiraa qof ku hadla soomaali?</l><stg><st Contlex="INTERJ_">ma jiraa qof ku hadla soomaali?</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="INTERJ">puhuuko kukaan täällä somalia?</t></tg></mg></e>
+<e><lg><l pos="INTERJ">ma ku hadashaa soomaali?</l><stg><st Contlex="INTERJ_">ma ku hadashaa soomaali?</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="INTERJ">puhutko somalia?</t></tg></mg></e>
+<e><lg><l pos="PHRASE">ma ku hadli finnish</l><stg><st Contlex="PHRASE_">ma ku hadli finnish</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="PHRASE">en puhu suomea</t></tg></mg></e>
+<e><lg><l pos="INTERJ">nabaday</l><stg><st Contlex="INTERJ_">nabaday</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="INTERJ">hei hei</t><t pos="INTERJ">moi</t><t pos="INTERJ">moi moi</t><t pos="INTERJ">terve</t></tg></mg></e>
+<e><lg><l pos="INTERJ">nabadgelyo</l><stg><st Contlex="INTERJ_">nabadgelyo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="INTERJ">hyvästi</t></tg></mg></e>
+<e><lg><l pos="INTERJ">sanad cusub oo wanaagsan</l><stg><st Contlex="INTERJ_">sanad cusub oo wanaagsan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="INTERJ">hyvää uutta vuotta</t></tg></mg></e>
+<e><lg><l pos="PHRASE">sidee tahay?</l><stg><st Contlex="PHRASE_">sidee tahay?</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="PHRASE">miten menee?</t></tg></mg></e>
+<e><lg><l pos="PHRASE">sidee tahay?</l><stg><st Contlex="PHRASE_">sidee tahay?</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="PHRASE">miten voit?</t></tg></mg></e>
+<e><lg><l pos="PHRASE">sidee tahay?</l><stg><st Contlex="PHRASE_">sidee tahay?</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="PHRASE">kuinka voit?</t></tg></mg></e>
+<e><lg><l pos="INTERJ">soo dhowow</l><stg><st Contlex="INTERJ_">soo dhowow</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="INTERJ">tervetuloa</t></tg></mg></e>
+<e><lg><l pos="PHRASE">subax wanaagsan</l><stg><st Contlex="PHRASE_">subax wanaagsan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="PHRASE">hyvää huomenta</t></tg></mg></e>
+<e><lg><l pos="INTERJ">waad ku mahadsan tahay</l><stg><st Contlex="INTERJ_">waad ku mahadsan tahay</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="INTERJ">kiitoksia</t></tg></mg></e>
+<e><lg><l pos="INTERJ">waad ku mahadsan tahay martisoorka</l><stg><st Contlex="INTERJ_">waad ku mahadsan tahay martisoorka</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="INTERJ">kiitos vieraanvaraisuudesta</t></tg></mg></e>
+<e><lg><l pos="INTERJ">waa halkee musqusha?</l><stg><st Contlex="INTERJ_">waa halkee musqusha?</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="INTERJ">missä on vessa?</t></tg></mg></e>
+<e><lg><l pos="INTERJ">waa inoo hadhow</l><stg><st Contlex="INTERJ_">waa inoo hadhow</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="INTERJ">nähdään myöhemmin</t></tg></mg></e>
+<e><lg><l pos="INTERJ">waa inoo kulan dambe</l><stg><st Contlex="INTERJ_">waa inoo kulan dambe</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="INTERJ">tapaamisiin</t></tg></mg></e>
+<e><lg><l pos="INTERJ">waan ka xumahay</l><stg><st Contlex="INTERJ_">waan ka xumahay</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="INTERJ">olen pahoillani</t></tg></mg></e>
+<e><lg><l pos="INTERJ">waan kuu mahadcelinayaa</l><stg><st Contlex="INTERJ_">waan kuu mahadcelinayaa</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="INTERJ">kiitän sinua</t></tg></mg></e>
+<e><lg><l pos="INTERJ">waxaan wacayaa booliiska</l><stg><st Contlex="INTERJ_">waxaan wacayaa booliiska</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="INTERJ">kutsun poliisin</t></tg></mg></e>
+<e><lg><l pos="INTERJ">yaa</l><stg><st Contlex="INTERJ_">yaa</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="INTERJ">anteeksi kuinka</t><t pos="INTERJ">anteeksi mitä</t></tg></mg></e>
+<e><lg><l pos="INTERJ">yur</l><stg><st Contlex="INTERJ_">yur</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="INTERJ">häivy!</t><t pos="INTERJ">hus!</t><t pos="INTERJ">mene pois!</t></tg></mg></e>
+</r>

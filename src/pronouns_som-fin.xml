@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r>
+<e><lg><l pos="Pron">adiga</l><stg><st Contlex="PRON_">adiga</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Pron">sinä</t></tg></mg></e>
+<e><lg><l pos="Pron">aniga</l><stg><st Contlex="PRON_">aniga</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Pron">minä</t></tg></mg></e>
+<e><lg><l pos="Pron">annaga</l><stg><st Contlex="PRON_">annaga</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Pron">me</t></tg></mg></e>
+<e><lg><l pos="Pron">idinka</l><stg><st Contlex="PRON_">idinka</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Pron">te</t></tg></mg></e>
+<e><lg><l pos="Pron">isaga</l><stg><st Contlex="PRON_">isaga</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Pron">hän</t><t pos="Pron">se</t></tg></mg></e>
+<e><lg><l pos="Pron">iyada</l><stg><st Contlex="PRON_">iyada</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Pron">hän</t><t pos="Pron">se</t></tg></mg></e>
+<e><lg><l pos="Pron">iyaga</l><stg><st Contlex="PRON_">iyaga</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Pron">he</t><t pos="Pron">ne</t></tg></mg></e>
+<e><lg><l pos="Pron">kaas</l><stg><st Contlex="PRON_">kaas</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Pron">tuo</t></tg></mg></e>
+<e><lg><l pos="Pron">kan</l><stg><st Contlex="PRON_">kan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Pron">tämä</t></tg></mg></e>
+<e><lg><l pos="Pron">kuwaas</l><stg><st Contlex="PRON_">kuwaas</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Pron">nuo</t></tg></mg></e>
+<e><lg><l pos="Pron">kuwan</l><stg><st Contlex="PRON_">kuwan</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Pron">nämä</t></tg></mg></e>
+<e><lg><l pos="Pron">maxaa</l><stg><st Contlex="PRON_">maxaa</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Pron">mikä</t></tg></mg></e>
+<e><lg><l pos="Pron">waxba</l><stg><st Contlex="PRON_">waxba</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Pron">ei mitään</t></tg></mg></e>
+<e><lg><l pos="Pron">yaa</l><stg><st Contlex="PRON_">yaa</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Pron">kuka</t><t pos="Pron">mitä</t></tg></mg></e>
+</r>
