@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r id="somfin" xml:lang="som">
+<e><lg><l pos="CONJ">haa</l><stg><st Contlex="CONJ_">haa</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="CONJ">kyllä</t><t pos="CONJ">jaa</t></tg></mg></e>
+<e><lg><l pos="CC">hase ahaatee</l><stg><st Contlex="CC_">hase ahaatee</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="CC">mutta</t><t pos="CC">vaan</t></tg></mg></e>
+<e><lg><l pos="CC">iyo</l><stg><st Contlex="CC_">iyo</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="CC">ja</t><t pos="CC">sekä</t></tg></mg></e>
+<e><lg><l pos="CC">laakiin</l><stg><st Contlex="CC_">laakiin</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="CC">mutta</t><t pos="CC">vaan</t></tg></mg></e>
+<e><lg><l pos="CC">mise</l><stg><st Contlex="CC_">mise</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="CC">vai</t></tg></mg></e>
+<e><lg><l pos="CC">ama</l><stg><st Contlex="CC_">ama</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="CC">tai</t></tg></mg></e>
+</r>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<r>
+<r id="somfin" xml:lang="som">
 <e><lg><l pos="Num">afar</l><stg><st Contlex="NUM_">afar</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Num">neljä</t></tg></mg></e>
 <e><lg><l pos="Num">afaraad</l><stg><st Contlex="NUM_">afaraad</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Num">neljäs</t></tg></mg></e>
 <e><lg><l pos="Num">afariyotoban</l><stg><st Contlex="NUM_">afariyotoban</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Num">neljätoista</t></tg></mg></e>

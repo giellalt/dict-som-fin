@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<r>
+<r id="somfin" xml:lang="som">
 <e><lg><l pos="INF">afduub</l><stg><st Contlex="INF_">afduub</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">sieppaus</t><t pos="N">kaappaus</t></tg></mg></e>
 <e><lg><l pos="INF">arag</l><stg><st Contlex="INF_">arag</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">näkeminen</t><t pos="N">näkö</t></tg></mg></e>
 <e><lg><l pos="INF">astaamayn</l><stg><st Contlex="INF_">astaamayn</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="N">välimerkit</t></tg></mg></e>
