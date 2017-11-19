@@ -55,5 +55,5 @@
 <e><lg><l pos="Interj">waan kuu mahadcelinayaa</l><stg><st Contlex="INTERJ_">waan kuu mahadcelinayaa</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Interj">kiitän sinua</t></tg></mg></e>
 <e><lg><l pos="Interj">waxaan wacayaa booliiska</l><stg><st Contlex="INTERJ_">waxaan wacayaa booliiska</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Interj">kutsun poliisin</t></tg></mg></e>
 <e><lg><l pos="Interj">yaa</l><stg><st Contlex="INTERJ_">yaa</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Interj">anteeksi kuinka</t><t pos="Interj">anteeksi mitä</t></tg></mg></e>
-<e><lg><l pos="Interj">yur</l><stg><st Contlex="INTERJ_">yur</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Interj">häivy!</t><t pos="Interj">hus!</t><t pos="Interj">mene pois!</t></tg></mg></e>
+<e><lg><l pos="Interj">yur</l><stg><st Contlex="INTERJ_">yur</st></stg></lg><mg><defNative/><tg xml:lang="fin"><t pos="Interj">häivy</t><t pos="Interj">hus</t><t pos="Interj">mene pois</t></tg></mg></e>
 </r>
